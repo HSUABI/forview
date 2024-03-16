@@ -1,0 +1,8 @@
+etc/passwd%00
+winnit/win%00.ini
+boot%00.ini
+etc/crontab%00
+etc/passwd%0a
+winnit/win%0a.ini
+boot%0a.ini
+etc/crontab%0a

@@ -1,0 +1,14 @@
+{
+    "method":"",
+    "dir":"",
+    "pagenm":"",
+    "host":"",
+    "accept":"",
+    "useragent":"",
+    "referer":"",
+    "cookie":"",
+    "acceptencoding":"",
+    "acceptlanguage":"",
+    "connection":"",
+    "data":""
+}

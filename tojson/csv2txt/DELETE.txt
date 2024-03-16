@@ -1,0 +1,55 @@
+-------정탐-전체페이로드2.csv-------
+DELETE /_c21_/msgbox/group/chat/multiple?grpids=1Cfyj,1UQxM,v7Aq HTTP/1.1
+X-Requested-With: XMLHttpRequest
+Accept: */*
+Referer: http://top.cafe.daum.net/_c21_/mymsgbox_main
+Accept-Language: ko-KR
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)
+Host: top.cafe.daum.net
+Content-Length: 0
+DNT: 1
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: TIARA=RSwOwBKLhxhKDsmIAdSeN2yM6GnL1RdvjNECSWuww.AObSPxgFHar4w_dNJGcXPgQxblFGe_agEpShhh2NcPC5WUAdELfnT6; webid=9dc057bc18c74b638b14713ef2b64b26; webid_sync=1545400708255; TS=1545400601; HTS=MPEANXLiXvUCsB63X_czVg00; HM_CU=4RSqlRSql; PROF=0603012032024064024152UiQPJk7X-6w0mlxoempuua-YErk3k91wnFlGEWKhrLT9KuZP3z7wEl2bxriNh5SdkQ00LYYSA9A1_cGNLCyhCzrwOgj61xkRhz7hJjRQkZUW2VPam5PG_vD.pYhZim-6ECqbfIauQlo8OTLcCscrxJX8Uw00_UNsfyhZ5lrSNMF2kVAZQpICpSjwcylXSsy.9ZtmY1R79-t_r86B8Sn.v4nrus41FdmFKQsmLnM4yjGhGHof6.6y5Td-Zn3d2kaMQGOklP7R_61nEfk7Kw8d7cJLrphWQfSF8SFiAwVuDepKDy5LTg00; LSID=40f47a2b-0a72-424f-9d63-1001d15c3f041545400601019; AGEN=GXURAjBfoTwA2XyEzRIJ4xuJH5wtLr_bW_3SNGSpP3o; SLEVEL=1; _ga=GA1.4.257854405.1504834415; MULTI_POST_COOKIE_RSql=none; SIGNATURE_COOKIE_RSql=N; alimcnt1Xfav=0; VISIT_RSql=1Xfav
+
+
+------end--------
+
+-------정탐-전체페이로드2.csv-------
+DELETE /scp/v1/idmmgtsvc/token HTTP/1.1
+Referer: */*
+Accept: */*
+Content-Type: application/json
+Authorization: Bearer 52ee1559-bcdc-423b-99f4-313d0434a154
+User-Agent: SecPrtOn_PDS
+Host: coresvcs.samsungcloudprint.com
+Content-Length: 0
+Cache-Control: no-cache
+
+
+------end--------
+
+-------정탐-전체페이로드2.csv-------
+DELETE /1221_%EC%A4%91%EA%B0%84%EC%97%B0%EC%8B%AC/%EC%A4%91%EA%B0%84%EC%97%B0%EC%8B%AC%EC%9E%90%EB%A3%8C_%ED%95%99%EA%B5%90%EC%88%98%EC%9A%94%EC%B6%94%EC%A0%95_%EC%9E%84%EC%A3%BC%ED%98%B8_1221.pptx HTTP/1.1
+User-Agent: RaiDrive
+Accept-Encoding: gzip,deflate
+Translate: f
+Authorization: Basic d2VidXNlcjoyMDEwaHkwNTI4
+Host: treex2.myq-see.com
+
+
+------end--------
+
+-------정탐-전체페이로드2.csv-------
+DELETE /chat/kakao/v1/chat_room/VjGd1yHTfAAk HTTP/1.1
+Host: itchatbot1.lh.or.kr:8080
+Accept: */*
+User-Agent: KakaoTalk/Bot 2.0
+X-Forwarded-For: unknown
+Cache-Control: max-age=259200
+Connection: keep-alive
+
+
+------end--------
+

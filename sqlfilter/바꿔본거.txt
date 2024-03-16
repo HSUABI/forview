@@ -1,0 +1,46 @@
+SELECT a, b, c FROM table_name;
+코드거친후 : ['SELECT FROM', 'column',['a','b','c'], 'TABLE', 'table_name']
+
+SELECT DISTINCT a, b, c FROM table_name;
+코드거친후 : ['SELECT DISTINCT FROM', 'column',['a','b','c'], 'TABLE', 'table_name']
+
+SELECT a, b, c FROM table_name WHERE name="홍길동";
+코드거친후 : ['SELECT FROM', 'column',['a','b','c'], 'TABLE', 'table_name','WHERE',['홍길동'] ] 
+
+SELECT a, b, c FROM table_name WHERE name="홍길동" AND age=20;
+코드거친후 : ['SELECT FROM', 'column',['a','b','c'], 'TABLE', 'table_name','WHERE AND',["홍길동",20] ]
+
+SELECT a, b, c FROM table_name WHERE name IN ('홍길동','이영희','김철수');
+코드거친후 : ['SELECT FROM', 'column',['a','b','c'], 'TABLE', 'table_name','WHERE IN',['홍길동','이영희','김철수'] ]
+
+SELECT a, b, c FROM table_name WHERE age BETWEEN 20 AND 30;
+코드거친후 : ['SELECT FROM', 'column',['a','b','c'], 'TABLE', 'table_name','WHERE BETWEEN AND',[20,30] ]
+
+SELECT a, b, c FROM table_name WHERE name LIKE '홍%';
+코드거친후 : ['SELECT FROM', 'column',['a','b','c'], 'TABLE', 'table_name','WHERE LIKE',["홍%"] ]
+
+SELECT a, b, c FROM table_name WHERE age=20 ORDER BY name DESC, score ASC;
+코드거친후 : ['SELECT FROM', 'column',['a','b','c'], 'TABLE', 'table_name','WHERE',[20],"ORDER BY",["name","DESC","score","ASC"] ] //ORDERBY는 어떻게 해야할지 몰라서 우선 DESC 랑 ASC를 리스트에 넣었습니다.
+
+
+SELECT COUNT a, b, c FROM table_name WHERE age = 20;
+['SELECT COUNT', 'column',['a','b','c'], 'TABLE', 'table_name',"WHERE",[20]]
+
+
+변경해보면서 느낀건데 WHERE에도 column자식을 두는게 어떨지요?
+
+
+//아래부분은 얘기를 더하고 어떻게 바꿀지 고민해봐여
+
+SELECT SUM(column_name)
+FROM   table_name
+WHERE  CONDITION
+GROUP BY column_name;
+
+
+
+SELECT SUM(column_name)
+FROM   table_name
+WHERE  CONDITION
+GROUP BY column_name
+HAVING (arithematic function condition);

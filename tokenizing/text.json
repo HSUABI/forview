@@ -1,0 +1,113 @@
+[
+    {
+        "TIME": "2018-12-30 1:11:14 PM",
+        "SIP": "152.99.159.138",
+        "SPORT": "58616",
+        "DIP": "192.168.14.19",
+        "DPORT": "80",
+        "MSG": "FDOWN",
+        "RES": "1",
+        "PAYLOAD": [
+            {
+                "DATA": [
+                    "..",
+                    "..",
+                    "..",
+                    "..",
+                    "..",
+                    "..",
+                    "etc",
+                    "passwd"
+                ],
+                "METHOD": "GET",
+                "URL": [
+                    "",
+                    "pages",
+                    "..",
+                    "..",
+                    "..",
+                    "..",
+                    "..",
+                    "rootfiile",
+                    "txt"
+                ],
+                "REFERER": "",
+                "USER-AGENT": "mozilla/5.0",
+                "CONTENT-TYPE": "",
+                "HOST": "ebid.lh.or.kr",
+                "CONTENT-LENGTH": "",
+                "CONNECTION": "keep-alive",
+                "COOKIE": "",
+                "DATA_MUTITYPE_LENGTH": "",
+                "DATA_MUTITYPE_CONTENT-TYPE": ""
+            }
+        ]
+    },
+    {
+        "TIME": "2018-12-30 1:11:14 PM",
+        "SIP": "152.99.159.138",
+        "SPORT": "58616",
+        "DIP": "192.168.14.19",
+        "DPORT": "80",
+        "MSG": "FUP",
+        "RES": "1",
+        "PAYLOAD": [
+            {
+                "DATA": [
+                    "Li4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZA=="
+                ],
+                "METHOD": "GET",
+                "URL": [
+                    "",
+                    "pages",
+                    "seculayer",
+                    "upload",
+                    "php"
+                ],
+                "REFERER": "",
+                "USER-AGENT": "mozilla/5.0",
+                "CONTENT-TYPE": "",
+                "HOST": "ebid.lh.or.kr",
+                "CONTENT-LENGTH": "",
+                "CONNECTION": "keep-alive",
+                "COOKIE": "",
+                "DATA_MUTITYPE_LENGTH": "",
+                "DATA_MUTITYPE_CONTENT-TYPE": ""
+            }
+        ]
+    },
+    {
+        "TIME": "2018-12-30 1:11:14 PM",
+        "SIP": "152.99.159.138",
+        "SPORT": "58616",
+        "DIP": "192.168.14.19",
+        "DPORT": "80",
+        "MSG": "UAA",
+        "RES": "1",
+        "PAYLOAD": [
+            {
+                "DATA": [
+                    "Li4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZA=="
+                ],
+                "METHOD": "GET",
+                "URL": [
+                    "",
+                    "pages",
+                    "seculayer",
+                    "root",
+                    "admin",
+                    "php"
+                ],
+                "REFERER": "",
+                "USER-AGENT": "mozilla/5.0",
+                "CONTENT-TYPE": "",
+                "HOST": "ebid.lh.or.kr",
+                "CONTENT-LENGTH": "",
+                "CONNECTION": "keep-alive",
+                "COOKIE": "",
+                "DATA_MUTITYPE_LENGTH": "",
+                "DATA_MUTITYPE_CONTENT-TYPE": ""
+            }
+        ]
+    }
+]

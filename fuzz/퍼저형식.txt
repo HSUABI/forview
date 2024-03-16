@@ -1,0 +1,44 @@
+1. FD
+	FU와 비슷하게
+
+
+2. FS
+	SQL과 유사하게하나 데이터를 다르게
+3. XI
+	SQL과 유사하게하나 데이터를 다르게
+4. LI
+	SQL과 유사하게하나 데이터를 다르게
+
+
+
+
+패킷모양
+
+(GET)|(POST) (/(#DIR_NAMES))*(/(#PAGENAME))?변수명=변수값&변수명=변수값.... HTTP/1.1
+(HOST: (#URLS))?
+(Accept: ((/)|(*/*)|(text/html)))?
+(User-Agent: ( (Mozilla/5.0)|(python-requests/2.20.0) ) )?
+(Referer: (어떤값) )? 
+(Cookie: (어떤값) )?
+(Content-type: (application/x-www-form-urlencoded)|(text/html)(multipart/form-data;boundary=----7df271da040a) ) ?
+(Content-Length: (데이터길이))?
+(Accept-Encoding: (gzip)(, (값들))*)?
+(Accept-Language: (ko-kr)(, (값들))*)?
+(Connection: ((Keep-Alive)|(Close)))?
+
+데이터들....
+
+
+default key를만들고 일단은 다 1로 해두기
+
+변수명 , 변수값따로
+
+default값은 인자로받기
+
+
+FD - URL , BODY
+FS , LI, XI - URL , BODY
+
+../ ./랜덤 최소3개
+CONTENT-TYPE랜덤
+CONTENT-LENGTH 데이터길이

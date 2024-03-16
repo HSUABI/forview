@@ -1,0 +1,16 @@
+/DFDF/DFDFD/FDF/ 하고 마지막에 페이지이름이없는것
+이형식은 4가지유형에 해당하는지?
+
+GET /webdav/ HTTP/1.1
+Host: 211.61.36.19:80
+User-Agent: Mozilla/5.0
+Connection: Close
+
+GET / HTTP/1.1
+Host: www.lh.or.kr
+Connection: Keep-Alive
+User-Agent: 
+
+
+언제;를쓰고 안쓰는지?
+Accept-Language: en-us,en;q=0.5

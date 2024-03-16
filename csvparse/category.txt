@@ -1,0 +1,14 @@
+malware
+vulnerabilities_file
+vulnerabilities_browser
+vulnerabilities_server
+security_policy
+vulnerabilities_protocol
+pua_spyware
+vulnerabilities_sql
+exploit-kit
+indicator
+netbios
+vulnerabilities_x11
+app-detect
+vulnerabilities_os

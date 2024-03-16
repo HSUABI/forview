@@ -1,0 +1,6 @@
+en-us
+en-us,en;q=0.5
+en,*
+*
+en,*
+en-us,en

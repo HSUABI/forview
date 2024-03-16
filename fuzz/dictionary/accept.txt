@@ -1,0 +1,4 @@
+*/*
+image/jpeg, application/x-ms-application, image/gif, application/xaml+xml, image/pjpeg, application/x-ms-xbap, application/vnd.ms-excel, application/vnd.ms-powerpoint, application/msword, */*
+text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2
+text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8

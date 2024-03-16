@@ -1,0 +1,58 @@
+{
+    "XI": {
+    "METHOD": 1,
+    "DIR": 1,
+    "Pagenm": 1,
+    "HOST": 1,
+    "Accept": 1,
+    "User-Agent": 1,
+    "Referer": 1,
+    "Cookie": 1,
+    "Accept-Encoding": 1,
+    "Accept-Language": 1,
+    "Connection": 1,
+    "DATA_URL": 1
+},
+    "LI": {
+    "METHOD": 1,
+    "DIR": 1,
+    "Pagenm": 1,
+    "HOST": 1,
+    "Accept": 1,
+    "User-Agent": 1,
+    "Referer": 1,
+    "Cookie": 1,
+    "Accept-Encoding": 1,
+    "Accept-Language": 1,
+    "Connection": 1,
+    "DATA_URL": 1
+},
+    "FD": {
+    "METHOD": 1,
+    "DIR": 1,
+    "Pagenm": 1,
+    "HOST": 1,
+    "Accept": 1,
+    "User-Agent": 1,
+    "Referer": 1,
+    "Cookie": 1,
+    "Accept-Encoding": 1,
+    "Accept-Language": 1,
+    "Connection": 1,
+    "DATA_URL": 1
+},
+    "FS": {
+    "METHOD": 1,
+    "DIR": 1,
+    "Pagenm": 1,
+    "HOST": 1,
+    "Accept": 1,
+    "User-Agent": 1,
+    "Referer": 1,
+    "Cookie": 1,
+    "Accept-Encoding": 1,
+    "Accept-Language": 1,
+    "Connection": 1,
+    "DATA_URL": 1
+}
+}
